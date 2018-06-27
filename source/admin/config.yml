@@ -3,13 +3,23 @@ backend:
 media_folder: "source/images/uploads" # Folder where user uploaded files should go
 public_folder: "source" # CMS now knows 'source' is the public folder and will strip this from the path
 display_url: https://springrun.com
-collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
-    folder: "source/posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Foo", name: "foo", widget: "foo"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+collections:
+  - name: "settings"
+    label: "Settings"
+    delete: false # Prevent users from deleting documents in this collection
+    extension: yml
+    format: yml
+    files:
+      - name: "general"
+        label: "Site Settings"
+        file: "data/settings.yml"
+        description: "General Site Settings"
+        fields:
+          - {label: "Global title", name: "site_title", widget: "string"}
+          - label: "Post Settings"
+            name: posts
+            widget: "object"
+            fields:
+              - {label: "Number of posts on frontpage", name: front_limit, widget: number}
+              - {label: "Default Author", name: author, widget: string}
+              - {label: "Default Thumbnail", name: thumb, widget: image, class: "thumb"}
