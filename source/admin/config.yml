@@ -4,6 +4,86 @@ media_folder: "source/images/uploads" # Folder where user uploaded files should 
 public_folder: "source" # CMS now knows 'source' is the public folder and will strip this from the path
 display_url: https://springrun.com
 collections:
+  - name: "pages"
+    label: "Pages"
+    delete: false # Prevent users from deleting documents in this collection
+    extension: yml
+    format: yml
+    files:
+      - name: "homepage"
+        label: "Homepage"
+        file: "data/homepage.yml"
+        description: "Homepage Information"
+        fields:
+          - {label: "Main Content", name: "content", widget: "markdown"}
+      - name: "clubhouse"
+        label: "Clubhouse"
+        file: "data/clubhouse.yml"
+        description: "Clubhouse Information"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Main Content", name: "content", widget: "markdown"}
+          - {label: "Primary Image", name: "primary_image", widget: "image"}
+          - label: "Features"
+            name: "features"
+            widget: "list"
+            field:
+              - {label: "Feature", name: "text", widget: "string"}
+          - label: "Images"
+            name: "images"
+            widget: "list"
+            fields:
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Display Label", name: "label", widget: "string"}
+          - label: "Floor Plans"
+            name: "floor_plans"
+            widget: "list"
+            fields:
+              - {label: "Image", name: "image", widget: "image"}
+              - {label: "Display Label", name: "label", widget: "string"}
+
+  - name: "models"
+    label: "Models"
+    label_singular: "Model"
+    create: true
+    extension: yml
+    format: yml
+    folder: data/models
+    fields:
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Description", name: "description", widget: "markdown"}
+      - {label: "Square Feet", name: "square_feet", widget: "number"}
+      - label: "Number of Bedrooms"
+        name: "bedrooms"
+        widget: "select"
+        options: ["1", "2", "3", "4"]
+      - label: "Number of Bathrooms"
+        name: "bedrooms"
+        widget: "select"
+        options: ["1", "1.5", "2", "2.5", "3"]
+      - label: "Features"
+        name: "features"
+        widget: "list"
+        fields:
+          - {label: "Feature", name: "text", widget: "string"}
+      - label: "Building Materials"
+        name: "building_materials"
+        widget: "list"
+        fields:
+          - {label: "Material", name: "text", widget: "string"}
+      - label: "Images"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Display Label", name: "label", widget: "string"}
+      - label: "Floor Plans"
+        name: "floor_plans"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Display Label", name: "label", widget: "string"}
+
   - name: "settings"
     label: "Settings"
     delete: false # Prevent users from deleting documents in this collection
@@ -15,11 +95,17 @@ collections:
         file: "data/settings.yml"
         description: "General Site Settings"
         fields:
-          - {label: "Global title", name: "site_title", widget: "string"}
-          - label: "Post Settings"
-            name: posts
-            widget: "object"
+          - {label: "Site Title", name: "title", widget: "string"}
+          - {label: "Site Subtitle", name: "subtitle", widget: "string"}
+          - {label: "Image", name: "logo", widget: "image"}
+      - name: "seo"
+        label: "SEO Settings"
+        file: "data/seo.yml"
+        description: "General SEO Settings"
+        fields:
+          - {label: "Description", name: "description", widget: "string"}
+          - label: "Keywords"
+            name: "keywords"
+            widget: "list"
             fields:
-              - {label: "Number of posts on frontpage", name: front_limit, widget: number}
-              - {label: "Default Author", name: author, widget: string}
-              - {label: "Default Thumbnail", name: thumb, widget: image, class: "thumb"}
+              - {label: "Image", name: "image", widget: "image"}
