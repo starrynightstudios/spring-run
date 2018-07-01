@@ -25,17 +25,20 @@ collections:
           - {label: "Main Content", name: "content", widget: "markdown"}
           - {label: "Primary Image", name: "primary_image", widget: "image"}
           - label: "Features"
+            label_singular: "Feature"
             name: "features"
             widget: "list"
             fields:
               - {label: "Feature", name: "text", widget: "string"}
           - label: "Images"
+            label_singular: "Image"
             name: "images"
             widget: "list"
             fields:
               - {label: "Image", name: "image", widget: "image"}
               - {label: "Display Label", name: "label", widget: "string"}
           - label: "Floor Plans"
+            label_singular: "Floor Plan"
             name: "floor_plans"
             widget: "list"
             fields:
@@ -62,27 +65,17 @@ collections:
         widget: "select"
         options: ["1", "1.5", "2", "2.5", "3"]
       - label: "Features"
+        label_singular: "Feature"
         name: "features"
         widget: "list"
         fields:
           - {label: "Feature", name: "text", widget: "string"}
       - label: "Building Materials"
+        label_singular: "Building Material"
         name: "building_materials"
         widget: "list"
         fields:
           - {label: "Material", name: "text", widget: "string"}
-      - label: "Images"
-        name: "images"
-        widget: "list"
-        fields:
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Display Label", name: "label", widget: "string"}
-      - label: "Floor Plans"
-        name: "floor_plans"
-        widget: "list"
-        fields:
-          - {label: "Image", name: "image", widget: "image"}
-          - {label: "Display Label", name: "label", widget: "string"}
 
   - name: "settings"
     label: "Settings"
