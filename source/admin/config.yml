@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: gitlab
+  repo: starrynightstudios/spring-run
 
 # images
 media_folder: source/images/uploads
