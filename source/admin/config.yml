@@ -2,9 +2,8 @@ backend:
   name: git-gateway
 
 # images
-media_folder: source/public/images/uploads
-public_folder: /public/images/uploads
-
+media_folder: source/images/uploads
+public_folder: source
 display_url: https://springrun.com
 collections:
   - name: "pages"
