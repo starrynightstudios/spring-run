@@ -79,6 +79,21 @@ collections:
         widget: "list"
         fields:
           - {label: "Material", name: "text", widget: "string"}
+      - {label: "Primary Image", name: "primary_image", widget: "image"}
+      - label: "Images"
+        label_singular: "Image"
+        name: "images"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Display Label", name: "label", widget: "string"}
+      - label: "Floor Plans"
+        label_singular: "Floor Plan"
+        name: "floor_plans"
+        widget: "list"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Display Label", name: "label", widget: "string"}
 
   - name: "settings"
     label: "Settings"
