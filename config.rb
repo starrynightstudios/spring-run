@@ -13,6 +13,9 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+activate :sprockets
+sprockets.append_path File.join(root, "node_modules")
+
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 
