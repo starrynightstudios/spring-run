@@ -56,7 +56,7 @@ collections:
     format: yml
     folder: data/models
     fields:
-      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Name", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "markdown"}
       - {label: "Square Feet", name: "square_feet", widget: "number"}
       - label: "Number of Bedrooms"
