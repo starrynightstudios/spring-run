@@ -16,8 +16,13 @@ features:
   - text: Two car driveway
 building_materials:
   - text: Brick
-  - text: Hardiplank (cement based siding)
-primary_image: /images/uploads/p3.png
+  - text: Hardiplan (cement based siding)
+  - text: Insulated Windows
+  - text: Asphalt Shingles
+  - text: R-18 Wall Insulation
+  - text: R-30 Ceiling Insulation
+  - text: Aluminum Garage Door
+  - text: Covered Entries
 images:
   - image: /images/uploads/p3.png
   - image: /images/uploads/p0.png

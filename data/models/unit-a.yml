@@ -11,9 +11,18 @@ bedrooms: '3'
 bathrooms: '2.5'
 features:
   - text: Open floor plan
+  - text: Basement ready to finish
+  - text: Double car garage
+  - text: Two car driveway
 building_materials:
   - text: Brick
-primary_image: /images/uploads/p1.png
+  - text: Hardiplan (cement based siding)
+  - text: Insulated Windows
+  - text: Asphalt Shingles
+  - text: R-18 Wall Insulation
+  - text: R-30 Ceiling Insulation
+  - text: Aluminum Garage Door
+  - text: Covered Entries
 images:
   - image: /images/uploads/p1.png
   - image: /images/uploads/p0.png

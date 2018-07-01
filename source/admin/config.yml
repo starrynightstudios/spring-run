@@ -26,7 +26,6 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Main Content", name: "content", widget: "markdown"}
-          - {label: "Primary Image", name: "primary_image", widget: "image"}
           - label: "Features"
             label_singular: "Feature"
             name: "features"
@@ -79,7 +78,6 @@ collections:
         widget: "list"
         fields:
           - {label: "Material", name: "text", widget: "string"}
-      - {label: "Primary Image", name: "primary_image", widget: "image"}
       - label: "Images"
         label_singular: "Image"
         name: "images"
