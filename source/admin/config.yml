@@ -3,7 +3,7 @@ backend:
 
 # images
 media_folder: source/images/uploads
-public_folder: source
+public_folder: images/uploads
 display_url: https://springrun.com
 collections:
   - name: "pages"
@@ -104,3 +104,7 @@ collections:
             widget: "list"
             fields:
               - {label: "Keywork", name: "keyword", widget: "string"}
+
+
+
+src="/.netlify/git/gitlab/repository/files/%2Fsource%2Fimages%2Fuploads%2Fscreen-shot-2018-06-26-at-10.52.47-pm.png/raw?ref=master&ts=1530419846219"
