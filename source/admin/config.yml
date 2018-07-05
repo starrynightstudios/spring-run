@@ -107,6 +107,18 @@ collections:
           - {label: "Site Title", name: "title", widget: "string"}
           - {label: "Site Subtitle", name: "subtitle", widget: "string"}
           - {label: "Logo", name: "logo", widget: "image"}
+      - name: "navigation"
+        label: "Top Navigation"
+        file: "data/navigation.yml"
+        description: "Top Navigation Settings"
+        fields:
+          - label: "Menu Links"
+            label_singular: "Menu Link"
+            name: "links"
+            widget: "list"
+            fields:
+              - {label: "Display Label", name: "label", widget: "string"}
+              - {label: "URL", name: "url", widget: "string"}
       - name: "seo"
         label: "SEO Settings"
         file: "data/seo.yml"
