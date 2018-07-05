@@ -12,3 +12,8 @@ features:
   - text: Exercise Center
   - text: Swimming Pool
   - text: Changing Rooms
+images:
+  - image: /images/uploads/cp1.png
+  - image: /images/uploads/cp2.png
+floor_plans:
+  - image: /images/uploads/cfp1.png
