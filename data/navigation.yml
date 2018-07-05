@@ -1,0 +1,15 @@
+links:
+  - label: Information
+    url: /information
+  - label: Location
+    url: /location
+  - label: Community
+    url: /community
+  - label: Project
+    url: Project
+  - label: Clubhouse
+    url: /clubhouse
+  - label: Elevations
+    url: /elevations
+  - label: Floor Plans
+    url: /floor-plans
