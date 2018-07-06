@@ -9,40 +9,32 @@ display_url: https://springrun.com
 collections:
   - name: "pages"
     label: "Pages"
-    delete: false # Prevent users from deleting documents in this collection
+    create: true
+    folder: 'data/pages'
     extension: yml
     format: yml
-    files:
-      - name: "homepage"
-        label: "Homepage"
-        file: "data/homepage.yml"
-        description: "Homepage Information"
+    fields:
+      - {label: "Page Slug", name: "slug", widget: "string"}
+      - {label: "Page Title", name: "title", widget: "string"}
+      - {label: "Page Subtitle", name: "subtitle", widget: "string", required: false}
+      - label: "Sections"
+        label_singular: "Section"
+        name: "sections"
+        widget: "list"
         fields:
-          - {label: "Main Content", name: "content", widget: "markdown"}
-      - name: "clubhouse"
-        label: "Clubhouse"
-        file: "data/clubhouse.yml"
-        description: "Clubhouse Information"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Main Content", name: "content", widget: "markdown"}
-          - label: "Features"
-            label_singular: "Feature"
-            name: "features"
-            widget: "list"
-            fields:
-              - {label: "Feature", name: "text", widget: "string"}
+          - label: "How to Display Content"
+            name: "type"
+            widget: "select"
+            options:
+              - { label: "Single Column (Content only)", value: "contentOnly" }
+              - { label: "Single Column (Images only)", value: "imageOnly" }
+              - { label: "Two Column (Image Left)", value: "imgLeft" }
+              - { label: "Two Column (Image Right)", value: "imgRight" }
+          - {label: "Content", name: "content", widget: "markdown"}
           - label: "Images"
-            label_singular: "Image"
             name: "images"
             widget: "list"
-            fields:
-              - {label: "Image", name: "image", widget: "image"}
-              - {label: "Display Label", name: "label", widget: "string"}
-          - label: "Floor Plans"
-            label_singular: "Floor Plan"
-            name: "floor_plans"
-            widget: "list"
+            required: false
             fields:
               - {label: "Image", name: "image", widget: "image"}
               - {label: "Display Label", name: "label", widget: "string"}
@@ -119,6 +111,18 @@ collections:
             fields:
               - {label: "Display Label", name: "label", widget: "string"}
               - {label: "URL", name: "url", widget: "string"}
+      - name: "footer"
+        label: "Site Footer"
+        file: "data/footer.yml"
+        description: "Site Footer Settings"
+        fields:
+          - label: "Columns"
+            label_singular: "Column"
+            name: "columns"
+            widget: "list"
+            fields:
+              - {label: "Column Label", name: "label", widget: "string"}
+              - {label: "Column Content", name: "content", widget: "markdown"}
       - name: "seo"
         label: "SEO Settings"
         file: "data/seo.yml"
