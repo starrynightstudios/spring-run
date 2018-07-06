@@ -16,7 +16,6 @@ collections:
     fields:
       - {label: "Page Slug", name: "slug", widget: "string"}
       - {label: "Page Title", name: "title", widget: "string"}
-      - {label: "Page Subtitle", name: "subtitle", widget: "string", required: false}
       - label: "Sections"
         label_singular: "Section"
         name: "sections"
@@ -30,6 +29,8 @@ collections:
               - { label: "Single Column (Images only)", value: "imageOnly" }
               - { label: "Two Column (Image Left)", value: "imgLeft" }
               - { label: "Two Column (Image Right)", value: "imgRight" }
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Subtitle", name: "subtitle", widget: "string"}
           - {label: "Content", name: "content", widget: "markdown"}
           - label: "Images"
             name: "images"
