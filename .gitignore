@@ -4,3 +4,4 @@
 .sass-cache
 build/
 node_modules
+.byebug_history

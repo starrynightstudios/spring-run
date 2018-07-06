@@ -1,6 +1,8 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 
+set :markdown_engine, :redcarpet
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
@@ -22,6 +24,16 @@ sprockets.append_path File.join(root, "node_modules")
 # Proxy pages
 # https://middlemanapp.com/advanced/dynamic-pages/
 
+# Loop through each page
+data.pages.each do |id, page|
+  # The path to the page gets set from the slug of the page
+  path = page.slug == 'homepage' ? '/index.html' : "#{page.slug}/index.html"
+  # Use the appropriate template
+  template = "/templates/page.html"
+  # Add the proxy
+  proxy path, template, locals: { page: page }
+end
+
 # proxy(
 #   '/this-page-has-no-template.html',
 #   '/template-file.html',
@@ -33,12 +45,6 @@ sprockets.append_path File.join(root, "node_modules")
 # Helpers
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
-
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings

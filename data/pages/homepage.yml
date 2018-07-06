@@ -9,7 +9,7 @@ sections:
       - image: /images/uploads/screen-shot-2018-07-05-at-9.18.12-pm.png
         label: Girl blowing bubbles
     title: The Perfect Life!
-    type: imageOnly
+    type: images_only
   - content: >-
       Spring Run is a place to enjoy a happy life and to play. There will be two
       large grassed parks for the entire community. The first park will be ready
@@ -29,13 +29,13 @@ sections:
 
 
       ##
-    type: contentOnly
+    type: content_only
   - content: Timeline info goes here.
     title: Timeline
-    type: contentOnly
+    type: content_only
   - content: Phases info goes here.
     title: Phases
-    type: contentOnly
+    type: content_only
   - content: Content goes here.
     title: Appointments to See
-    type: contentOnly
+    type: content_only

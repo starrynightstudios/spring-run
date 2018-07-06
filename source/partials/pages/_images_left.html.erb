@@ -1,0 +1,27 @@
+<section class="section">
+  <div class="container">
+    <% if section.title.present? %>
+      <p class="title"><%= section.title %></p>
+    <% end %>
+    <% if  section.subtitle.present? %>
+      <p class="subtitle"><%= section.subtitle %></p>
+    <% end %>
+    <div class="columns">
+      <div class="column is-4">
+        <% if section.images %>
+          <% section.images.each do |image| %>
+            <figure class="image">
+              <%= image_tag image.image, alt: image.label %>
+            </figure>
+          <% end %>
+        <% end %>
+      </div>
+      <div class="column is-8">
+        <div class="content is-medium">
+          <%= markdown section.content %>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>

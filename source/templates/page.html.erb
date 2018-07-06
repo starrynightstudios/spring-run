@@ -1,0 +1,3 @@
+<% page.sections.each do |section| %>
+  <%= partial "partials/pages/#{section.type}", locals: { section: section } %>
+<% end %>

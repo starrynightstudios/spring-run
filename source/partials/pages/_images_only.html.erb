@@ -1,0 +1,21 @@
+<section class="section">
+  <div class="container">
+    <% if section.title.present? %>
+      <p class="title"><%= section.title %></p>
+    <% end %>
+    <% if  section.subtitle.present? %>
+      <p class="subtitle"><%= section.subtitle %></p>
+    <% end %>
+    <% if section.images %>
+      <div class="columns">
+        <% section.images.each do |image| %>
+          <div class="column">
+            <figure class="image">
+              <%= image_tag image.image, alt: image.label %>
+            </figure>
+          </div>
+        <% end %>
+      </div>
+    <% end %>
+  </div>
+</section>

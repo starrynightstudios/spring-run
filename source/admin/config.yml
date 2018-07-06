@@ -25,10 +25,10 @@ collections:
             name: "type"
             widget: "select"
             options:
-              - { label: "Single Column (Content only)", value: "contentOnly" }
-              - { label: "Single Column (Images only)", value: "imageOnly" }
-              - { label: "Two Column (Image Left)", value: "imgLeft" }
-              - { label: "Two Column (Image Right)", value: "imgRight" }
+              - { label: "Single Column (Content only)", value: "content_only" }
+              - { label: "Single Column (Images only)", value: "images_only" }
+              - { label: "Two Column (Image Left)", value: "images_left" }
+              - { label: "Two Column (Image Right)", value: "images_right" }
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Subtitle", name: "subtitle", widget: "string"}
           - {label: "Content", name: "content", widget: "markdown"}

@@ -9,4 +9,4 @@ sections:
       - image: /images/uploads/screen-shot-2018-07-05-at-9.14.48-pm.png
         label: Map with directions to SpringRun
     title: The Perfect Location
-    type: imgLeft
+    type: images_left

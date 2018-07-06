@@ -1,0 +1,13 @@
+<section class="section">
+  <div class="container">
+    <% if section.title.present? %>
+      <p class="title"><%= section.title %></p>
+    <% end %>
+    <% if  section.subtitle.present? %>
+      <p class="subtitle"><%= section.subtitle %></p>
+    <% end %>
+    <div class="content is-medium">
+      <%= markdown section.content %>
+    </div>
+  </div>
+</section>
