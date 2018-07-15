@@ -1,9 +1,15 @@
 <% if files.present? && files.length %>
-  <div class="buttons">
-    <% files.each do |file| %>
-      <a class="button is-primary is-medium is-rounded" href="<%= file.file %>">
-        <%= file.label %>
-      </a>
-    <% end %>
+  <div class="box">
+    <p class="title is-5 has-text-centered">
+      Available Documents
+    </p>
+    <div class="buttons is-centered">
+      <% files.each do |file| %>
+        <a href="<%= file.file %>" class="button is-primary is-rounded">
+          <%= file.label %>
+        </a>
+        </li>
+      <% end %>
+    </div>
   </div>
 <% end %>

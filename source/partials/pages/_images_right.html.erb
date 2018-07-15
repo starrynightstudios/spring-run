@@ -18,10 +18,9 @@
               </figure>
             </a>
           <% end %>
-
-          <%= partial 'partials/image_modal', locals: { images: section.images } %>
         <% end %>
       </div>
     </div>
+    <%= partial 'partials/image_modal', locals: { images: section.images } %>
   </div>
 </section>
