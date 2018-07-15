@@ -5,9 +5,11 @@
       <div class="columns" data-controller="modal">
         <% section.images.each_with_index do |image, index| %>
           <div class="column has-content-centered">
-            <figure class="image" data-action="click->modal#open">
-              <%= image_tag image.image, alt: image.label, data: { index: index } %>
-            </figure>
+            <a role="button" tabindex="0" data-action="click->modal#open">
+              <figure class="image">
+                <%= image_tag image.image, alt: image.label, data: { index: index } %>
+              </figure>
+            </a>
           </div>
         <% end %>
         <%= partial 'partials/image_modal', locals: { images: section.images } %>
