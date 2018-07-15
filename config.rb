@@ -33,9 +33,9 @@ data.pages.each do |id, page|
   # The path to the page gets set from the slug of the page
   path = page.slug == 'homepage' ? '/index.html' : "#{page.slug}/index.html"
   # Use the appropriate template
-  template = "/templates/page.html.erb"
+  template = "/templates/page.html"
   # Add the proxy
-  proxy path, template, locals: { page: page }
+  proxy path, template, template: 'page.html', locals: { page: page }, ignore: true
 end
 
 # proxy(

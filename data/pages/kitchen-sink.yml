@@ -85,7 +85,7 @@ sections:
       libero eget ante. Nulla quam.
     subtitle: This is a subtitle
     title: Single Column (Content only
-    type: contentOnly
+    type: content_only
   - images:
       - image: /images/uploads/cfp1.png
       - image: /images/uploads/cp2.png
