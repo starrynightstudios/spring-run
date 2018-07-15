@@ -83,6 +83,11 @@ sections:
       aliquet risus a tortor. Integer id quam. Morbi mi. Quisque nisl felis,
       venenatis tristique, dignissim in, ultrices sit amet, augue. Proin sodales
       libero eget ante. Nulla quam.
+    files:
+      - file: /images/uploads/pdf-test.pdf
+        label: This is just a test
+      - file: /images/uploads/pdf-test.pdf
+        label: 'This is a test file, download!'
     subtitle: This is a subtitle
     title: Single Column (Content only
     type: content_only
