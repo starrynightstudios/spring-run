@@ -39,6 +39,13 @@ collections:
             fields:
               - {label: "Image", name: "image", widget: "image"}
               - {label: "Display Label", name: "label", widget: "string"}
+          - label: "Files"
+            name: "files"
+            widget: "list"
+            required: false
+            fields:
+              - {label: "File", name: "file", widget: "file"}
+              - {label: "Display Label", name: "label", widget: "string"}
 
   - name: "models"
     label: "Models"

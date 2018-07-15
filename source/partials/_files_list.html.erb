@@ -1,0 +1,9 @@
+<% if files.present? && files.length %>
+  <div class="buttons">
+    <% files.each do |file| %>
+      <a class="button is-primary is-medium is-rounded" href="<%= file.file %>">
+        <%= file.label %>
+      </a>
+    <% end %>
+  </div>
+<% end %>

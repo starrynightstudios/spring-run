@@ -6,6 +6,8 @@
         <div class="content is-medium">
           <%= markdown section.content %>
         </div>
+
+        <%= partial 'partials/files_list', locals: { files: section&.files } %>
       </div>
       <div class="column is-5 has-content-centered" data-controller="modal">
         <% if section.images %>

@@ -19,6 +19,8 @@
         <div class="content is-medium">
           <%= markdown section.content %>
         </div>
+
+        <%= partial 'partials/files_list', locals: { files: section&.files } %>
       </div>
     </div>
   </div>

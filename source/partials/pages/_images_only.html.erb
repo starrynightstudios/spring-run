@@ -15,5 +15,6 @@
         <%= partial 'partials/image_modal', locals: { images: section.images } %>
       </div>
     <% end %>
+    <%= partial 'partials/files_list', locals: { files: section&.files } %>
   </div>
 </section>
