@@ -1,27 +1,23 @@
 <section class="section">
   <div class="container">
-    <% if section.title.present? %>
-      <p class="title"><%= section.title %></p>
-    <% end %>
-    <% if  section.subtitle.present? %>
-      <p class="subtitle"><%= section.subtitle %></p>
-    <% end %>
+    <%= partial 'partials/section_header', locals: { section: section } %>
     <div class="columns">
-      <div class="column is-4">
+      <div class="column is-5 has-content-centered" data-controller="modal">
         <% if section.images %>
-          <% section.images.each do |image| %>
-            <figure class="image">
-              <%= image_tag image.image, alt: image.label %>
+          <% section.images.each_with_index do |image, index| %>
+            <figure class="image" data-action="click->modal#open">
+              <%= image_tag image.image, alt: image.label, data: { index: index } %>
             </figure>
           <% end %>
+
+          <%= partial 'partials/image_modal', locals: { images: section.images } %>
         <% end %>
       </div>
-      <div class="column is-8">
+      <div class="column is-7">
         <div class="content is-medium">
           <%= markdown section.content %>
         </div>
       </div>
     </div>
-
   </div>
 </section>

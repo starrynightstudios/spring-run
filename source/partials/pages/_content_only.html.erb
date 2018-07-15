@@ -1,11 +1,6 @@
 <section class="section">
   <div class="container">
-    <% if section.title.present? %>
-      <p class="title"><%= section.title %></p>
-    <% end %>
-    <% if  section.subtitle.present? %>
-      <p class="subtitle"><%= section.subtitle %></p>
-    <% end %>
+    <%= partial 'partials/section_header', locals: { section: section } %>
     <div class="content is-medium">
       <%= markdown section.content %>
     </div>

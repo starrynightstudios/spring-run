@@ -1,3 +1,26 @@
 @import "./bulma.css.scss";
 
 // Custom stuff goes here
+
+.modal {
+  flex-direction: column;
+
+  .modal-content {
+    display: flex;
+    align-items: center;
+  }
+
+  .modal-nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 4rem 1rem;
+    text-align: center;
+    width: 100%;
+  }
+}
+
+.column.has-content-centered {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

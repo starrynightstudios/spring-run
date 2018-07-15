@@ -1,0 +1,18 @@
+<div class="modal" data-target="modal.modal">
+  <div class="modal-background" data-action="click->modal#close"></div>
+  <div class="modal-content">
+    <% images.each_with_index do |image, index| %>
+      <figure class="image is-hidden" data-target="modal.image" data-index="<%= index %>">
+        <%= image_tag image.image, alt: image.label %>
+      </figure>
+    <% end %>
+  </div>
+  <% if images.length > 1 %>
+    <div class="modal-nav">
+      <button type="button" data-action="modal#previous" class="button is-medium is-inverted is-outlined is-dark is-rounded">Prev</button>
+      <button type="button" data-action="modal#next" class="button is-medium is-inverted is-outlined is-dark is-rounded">Next</button>
+    </div>
+  <% end %>
+  <button class="modal-close is-large" aria-label="close" data-action="modal#close"></button>
+
+</div>

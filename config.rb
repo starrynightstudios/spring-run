@@ -15,7 +15,11 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
-activate :sprockets
+require 'sprockets/es6'
+activate :sprockets do |s|
+  s.supported_output_extensions << '.es6'
+end
+
 sprockets.append_path File.join(root, "node_modules")
 
 # With alternative layout
