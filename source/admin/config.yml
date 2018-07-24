@@ -16,6 +16,7 @@ collections:
     fields:
       - {label: "Page Slug", name: "slug", widget: "string"}
       - {label: "Page Title", name: "title", widget: "string"}
+      - {label: "Short Description (SEO)", name: "description", widget: "string"}
       - label: "Sections"
         label_singular: "Section"
         name: "sections"
@@ -39,12 +40,13 @@ collections:
             fields:
               - {label: "Image", name: "image", widget: "image"}
               - {label: "Display Label", name: "label", widget: "string"}
-          - label: "Files"
+          - label: "Files and Links"
             name: "files"
             widget: "list"
             required: false
             fields:
-              - {label: "File", name: "file", widget: "file"}
+              - {label: "File", name: "file", widget: "file", required: "false"}
+              - {label: "URL", name: "url", widget: "string", required: "false"}
               - {label: "Display Label", name: "label", widget: "string"}
 
   - name: "models"
