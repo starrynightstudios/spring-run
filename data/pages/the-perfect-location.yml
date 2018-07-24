@@ -1,10 +1,23 @@
 slug: location
 title: The Perfect Location
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+  incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+  nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
+  eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt
+  in culpa qui officia deserunt mollit anim id est laborum.   Lorem ipsum dolor
+  sit amet, consectetur adipiscing elit  sed do eiusmod tempor incididunt ut
+  labore et dolore magna aliqua.
 sections:
   - content: >-
       SpringRun is the center-point between Salt Lake and Utah counties. It's
       just 12 minutes from I-15, 15 minutes to northern Utah County technology
       companies, and 20 minutes to the major business centers of both counties.
+    files:
+      - label: Get Directions
+        url: >-
+          https://www.google.com/maps/place/Spring+Run+Community,+New+Homes+in+Eagle+Mountain/@40.385706,-111.9834654,17z/data=!3m1!4b1!4m5!3m4!1s0x874d7dbe1ab0e151:0x615aa320d04b00c3!8m2!3d40.385706!4d-111.9812767
     images:
       - image: /images/uploads/screen-shot-2018-07-05-at-9.14.48-pm.png
         label: Map with directions to SpringRun
