@@ -24,6 +24,7 @@ sections:
     images:
       - image: /images/uploads/cp1.png
         label: Rendered image of future clubhouse (back)
+    title: Future Clubhouse
     type: images_left
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
