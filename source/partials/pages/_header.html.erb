@@ -1,0 +1,19 @@
+<section class="hero is-primary">
+  <div class="hero-body">
+    <div class="container">
+      <h1 class="title has-text-centered">
+        <%= section.title %>
+      </h1>
+      <% if section.subtitle.present? %>
+        <h2 class="subtitle has-text-centered">
+          <%= section.subtitle %>
+        </h2>
+      <% end %>
+      <% if section.content.present? %>
+        <div class="content has-text-centered">
+          <%= markdown section.content %>
+        </div>
+      <% end  %>
+    </div>
+  </div>
+</section>
