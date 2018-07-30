@@ -1,6 +1,19 @@
 slug: homepage
 title: Homepage
+description: >-
+  Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
+  ipsum Lorem ipsum Lorem ipsum 
 sections:
+  - content: >-
+      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
+      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
+    images:
+      - image: /images/uploads/cfp1.png
+    subtitle: The Perfect Life!
+    title: Spring Run
+    type: header
   - images:
       - image: /images/uploads/screen-shot-2018-07-05-at-9.18.29-pm.png
         label: Family riding bikes
