@@ -1,17 +1,23 @@
-<section class="hero is-primary">
+<% hero_image = section.images.present? && section.images.length ? section.images.first : nil %>
+
+<section class="hero is-primary is-medium is-bold <%= 'has-background-image' if hero_image.present? %>" style="background-image: url(<%= hero_image.image %>)">
   <div class="hero-body">
     <div class="container">
-      <h1 class="title has-text-centered">
+      <h1 class="title has-text-centered is-1 is-size-3-mobile">
         <%= section.title %>
       </h1>
       <% if section.subtitle.present? %>
-        <h2 class="subtitle has-text-centered">
+        <h2 class="subtitle has-text-centered is-3 is-size-5-mobile">
           <%= section.subtitle %>
         </h2>
       <% end %>
       <% if section.content.present? %>
-        <div class="content has-text-centered">
-          <%= markdown section.content %>
+        <div class="columns">
+          <div class="column is-6 is-offset-3">
+            <div class="content has-text-centered">
+              <%= markdown section.content %>
+            </div>
+          </div>
         </div>
       <% end  %>
     </div>

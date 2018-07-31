@@ -29,3 +29,14 @@
 .textarea {
   resize: none;
 }
+
+.hero {
+  background-position: center;
+  background-size: cover;
+
+  .title,
+  .subtitle,
+  .content {
+    text-shadow: 0 0 8px black;
+  }
+}
