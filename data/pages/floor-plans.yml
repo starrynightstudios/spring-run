@@ -1,0 +1,92 @@
+slug: floor-plans
+title: Floor Plans
+description: description
+sections:
+  - images:
+      - image: /images/uploads/untitled.jpg
+    title: Floor Plans
+    type: header
+  - content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+
+      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
+
+      * **sed do eiusmod** tempor incididunt ut labore et dolore
+
+      * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi ut** aliquip ex ea commodo consequat.
+
+      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi** ut aliquip ex ea commodo consequat.
+    images:
+      - image: /images/uploads/p0.png
+    title: Unit A
+    type: images_left
+  - files:
+      - file: /images/uploads/fp2.png
+        label: Download Unit Brochure
+    images:
+      - image: /images/uploads/fp1.png
+      - image: /images/uploads/fp2.png
+      - image: /images/uploads/fp3.png
+    type: images_only
+  - content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+
+      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
+
+      * **sed do eiusmod** tempor incididunt ut labore et dolore
+
+      * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi ut** aliquip ex ea commodo consequat.
+
+      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi** ut aliquip ex ea commodo consequat.
+    images:
+      - image: /images/uploads/p1.png
+    title: Unit B
+    type: images_left
+  - files:
+      - file: /images/uploads/fp2.png
+        label: Download Unit Brochure
+    images:
+      - image: /images/uploads/fp1.png
+      - image: /images/uploads/fp2.png
+      - image: /images/uploads/fp3.png
+    type: images_only
+  - content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+
+      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
+
+      * **sed do eiusmod** tempor incididunt ut labore et dolore
+
+      * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi ut** aliquip ex ea commodo consequat.
+
+      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi** ut aliquip ex ea commodo consequat.
+    images:
+      - image: /images/uploads/p3.png
+    title: Unit C
+    type: images_left
+  - files:
+      - file: /images/uploads/cp1.png
+        label: Download Unit Brochure
+    images:
+      - image: /images/uploads/fp1.png
+      - image: /images/uploads/fp2.png
+      - image: /images/uploads/fp3.png
+    type: images_only
