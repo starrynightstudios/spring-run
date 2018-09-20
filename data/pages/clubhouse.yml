@@ -1,11 +1,11 @@
 slug: clubhouse
-title: Clubhouse
+title: Future Clubhouse
 description: clubhouse description
 sections:
   - content: ''
     images:
       - image: /images/uploads/cp1.png
-    title: The Clubhouse
+    title: Future Clubhouse
     type: header
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -27,7 +27,7 @@ sections:
     images:
       - image: /images/uploads/cp1.png
         label: Rendered image of future clubhouse (back)
-    title: Future Clubhouse
+    title: ''
     type: images_left
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
