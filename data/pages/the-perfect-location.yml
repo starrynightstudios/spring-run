@@ -10,6 +10,11 @@ description: >-
   sit amet, consectetur adipiscing elit  sed do eiusmod tempor incididunt ut
   labore et dolore magna aliqua.
 sections:
+  - content: ''
+    images:
+      - image: /images/uploads/untitled.jpg
+    title: The Perfect Location
+    type: header
   - content: >-
       SpringRun is the center-point between Salt Lake and Utah counties. It's
       just 12 minutes from I-15, 15 minutes to northern Utah County technology
@@ -21,5 +26,5 @@ sections:
     images:
       - image: /images/uploads/screen-shot-2018-07-05-at-9.14.48-pm.png
         label: Map with directions to SpringRun
-    title: The Perfect Location
+    title: ''
     type: images_left
