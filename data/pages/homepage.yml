@@ -6,11 +6,9 @@ description: >-
 sections:
   - content: >-
       Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum.
+      Lorem ipsum Lorem ipsum.
     images:
-      - image: /images/uploads/cfp1.png
+      - image: /images/uploads/summerfun_familybikingwoods.jpg
     subtitle: The Perfect Life!
     title: Spring Run
     type: header
