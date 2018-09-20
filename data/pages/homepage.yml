@@ -4,17 +4,15 @@ description: >-
   Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
   ipsum Lorem ipsum Lorem ipsum 
 sections:
-  - content: >-
-      Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-      Lorem ipsum Lorem ipsum.
+  - content: ''
     images:
       - image: /images/uploads/summerfun_familyoutside.jpg
     subtitle: The Perfect Life!
     title: Spring Run
     type: header
   - images:
-      - image: /images/uploads/summerfun_familybikingwoods.jpg
       - image: /images/uploads/summerfun_familyoutside.jpg
+      - image: /images/uploads/untitled.jpg
       - image: /images/uploads/summerfunfamilyinside.jpg
     title: The Perfect Life!
     type: images_only
