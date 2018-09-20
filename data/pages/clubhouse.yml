@@ -58,3 +58,7 @@ sections:
       - image: /images/uploads/cfp1.png
         label: Future clubhouse floor plans
     type: images_left
+  - images:
+      - image: /images/uploads/cp1.png
+    title: The Clubhouse
+    type: header
