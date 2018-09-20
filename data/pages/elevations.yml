@@ -1,0 +1,38 @@
+slug: elevations
+title: Elevations
+description: description
+sections:
+  - images:
+      - image: /images/uploads/p0.png
+    title: Elevations
+    type: header
+  - images:
+      - image: /images/uploads/p0.png
+      - image: /images/uploads/p1.png
+      - image: /images/uploads/p2.png
+      - image: /images/uploads/p3.png
+    type: images_only
+  - content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
+      est laborum.
+
+
+
+
+      * **Lorem ipsum dolor** sit amet, consectetur adipiscing elit
+
+      * **sed do eiusmod** tempor incididunt ut labore et dolore
+
+      * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
+
+      * **laboris nisi ut** aliquip ex ea commodo consequat.
+    files:
+      - file: /images/uploads/p0.png
+        label: Download Brochure
+    title: You'll Find the Perfect Look
+    type: content_only
