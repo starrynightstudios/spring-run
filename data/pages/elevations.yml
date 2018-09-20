@@ -11,6 +11,7 @@ sections:
       - image: /images/uploads/p1.png
       - image: /images/uploads/p2.png
       - image: /images/uploads/p3.png
+    title: You'll Find the Perfect Look
     type: images_only
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -34,5 +35,5 @@ sections:
     files:
       - file: /images/uploads/p0.png
         label: Download Brochure
-    title: You'll Find the Perfect Look
+    title: ''
     type: content_only
