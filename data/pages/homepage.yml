@@ -8,17 +8,14 @@ sections:
       Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
       Lorem ipsum Lorem ipsum.
     images:
-      - image: /images/uploads/summerfun_familybikingwoods.jpg
+      - image: /images/uploads/summerfun_familyoutside.jpg
     subtitle: The Perfect Life!
     title: Spring Run
     type: header
   - images:
-      - image: /images/uploads/screen-shot-2018-07-05-at-9.18.29-pm.png
-        label: Family riding bikes
-      - image: /images/uploads/screen-shot-2018-07-05-at-9.18.24-pm.png
-        label: Child learning to ride bike
-      - image: /images/uploads/screen-shot-2018-07-05-at-9.18.12-pm.png
-        label: Girl blowing bubbles
+      - image: /images/uploads/summerfun_familybikingwoods.jpg
+      - image: /images/uploads/summerfun_familyoutside.jpg
+      - image: /images/uploads/summerfunfamilyinside.jpg
     title: The Perfect Life!
     type: images_only
   - content: >-
@@ -41,12 +38,62 @@ sections:
 
       ##
     type: content_only
-  - content: Timeline info goes here.
+  - content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+
+      1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
+
+      2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+      ut aliquip ex ea commodo consequat.
+
+      3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu fugiat nulla pariatur.
+
+      4. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
+      officia deserunt mollit anim id est laborum.
     title: Timeline
     type: content_only
-  - content: Phases info goes here.
+  - content: >-
+      ## Phase 1 
+
+
+      **Fall 2019**
+
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+
+
+      ## Phase 2
+
+
+      **Spring 2020**
+
+
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
     title: Phases
     type: content_only
-  - content: Content goes here.
+  - content: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+      commodo consequat.
+
+
+      * Phone
+
+      * Email
+
+      * Address
     title: Appointments to See
     type: content_only
