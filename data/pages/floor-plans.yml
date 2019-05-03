@@ -7,33 +7,41 @@ sections:
           /images/uploads/t-6968a-18e_triumph_spring_run_-_the_denver_4-plex__bldg-1__walkout_scene_01_2018-02-21_-_2-1-.png
     title: Floor Plans
     type: header
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - content: |-
+      ## Specifications
+
+      * 2 bed
+      * 2 bath
+      * 2 car garage
+      * 9ft. ceiling on 1st level
+      * 9-6ft. coffered 2nd level
+      * Unfinished 1st level bonus
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **201 sq. ft**
+      * 2nd Level **1,362 sq. ft.**
+      * Total Finished **1,563 sq. ft.**
 
 
-      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
 
-      * **sed do eiusmod** tempor incididunt ut labore et dolore
+      * 1st Level (unfinished) **706 sq. ft. **
+      * **Total Square Feet w/unfinished - 2,269 sq. ft.**
 
-      * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
 
-      * **laboris nisi ut** aliquip ex ea commodo consequat.
 
-      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
-
-      * **laboris nisi** ut aliquip ex ea commodo consequat.
+      * 2-Car Garage** 466 sq. ft.**
+      * **Total Square Feet Including Garage - 2,735 sq. ft.**
     images:
-      - image: /images/uploads/p0.png
-    title: Unit A
+      - image: /images/uploads/redwood-elevation.png
+    title: The Redwood
     type: images_left
   - files:
-      - file: /images/uploads/fp2.png
-        label: Download Unit Brochure
+      - file: /images/uploads/1-11-19_redwood.pdf
+        label: Download Brochure
     images:
-      - image: /images/uploads/fp1.png
-      - image: /images/uploads/fp2.png
-      - image: /images/uploads/fp3.png
+      - image: /images/uploads/redwood-floor-plans.png
     type: images_only
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
