@@ -32,8 +32,6 @@ sections:
       * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
 
       * **laboris nisi ut** aliquip ex ea commodo consequat.
-    files:
-      - file: /images/uploads/p0.png
-        label: Download Brochure
+    files: []
     title: ''
     type: content_only
