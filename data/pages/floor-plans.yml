@@ -29,13 +29,17 @@ sections:
       * **Total Square Feet Including Garage - 2,735 sq. ft.**
     images:
       - image: /images/uploads/redwood-elevation.png
+        label: Artists Concept of The Redwood Elevation
     title: The Redwood
     type: images_left
   - files:
       - file: /images/uploads/1-11-19_redwood.pdf
         label: Download Brochure
     images:
-      - image: /images/uploads/redwood-floor-plans.png
+      - image: /images/uploads/redwood-first-floor.png
+        label: First Floor Plans for The Redwood
+      - image: /images/uploads/redwood-second-floor.png
+        label: Second Floor Plans for The Redwood
     type: images_only
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
