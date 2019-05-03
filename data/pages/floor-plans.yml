@@ -77,31 +77,38 @@ sections:
       - image: /images/uploads/birch-second-floor.png
         label: Second floor plans of The Birch
     type: images_only
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - content: |-
+      ## Specifications
 
+      * 2 bed
+      * 2 bath
+      * 2 car garage
+      * 9ft. ceiling on 1st level
+      * 9-6ft. coffered 2nd level
+      * Unfinished 1st level bonus
+      * Back patio with lawn
 
-      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
+      ## Calculations
 
-      * **sed do eiusmod** tempor incididunt ut labore et dolore
+      * 1st Level **188 sq. ft**
+      * 2nd Level **1,256 sq. ft.**
+      * Total Finished **1,444 sq. ft.**
+      * 1st Level (unfinished) **660 sq. ft.**
+      * Total Square Feet (with unfinished) **2,104 sq. ft.**
 
-      * **Ut enim ad minim** veniam, quis nostrud exercitation ullamco
-
-      * **laboris nisi ut** aliquip ex ea commodo consequat.
-
-      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
-
-      * **laboris nisi** ut aliquip ex ea commodo consequat.
+      * 2-Car Garage **421 sq. ft.**
+      * Total Square Feet (with garage) **2,525 sq. ft.**
     images:
-      - image: /images/uploads/p3.png
-    title: Unit C
+      - image: /images/uploads/birch-derivative-elevation.png
+        label: Artist rendition of The Birch Derivative
+    title: The Birch - Derivative
     type: images_left
   - files:
-      - file: /images/uploads/cp1.png
-        label: Download Unit Brochure
+      - file: /images/uploads/1-11-19_birch_derivative.pdf
+        label: Download Brochure
     images:
-      - image: /images/uploads/fp1.png
-      - image: /images/uploads/fp2.png
-      - image: /images/uploads/fp3.png
+      - image: /images/uploads/birch-derivative-first-floor.png
+        label: First floor plans of The Birch Derivative
+      - image: /images/uploads/birch-derivative-second-floor.png
+        label: Second floor plans of The Birch Derivative
     type: images_only
