@@ -8,10 +8,12 @@ sections:
     title: Elevations
     type: header
   - images:
-      - image: /images/uploads/p0.png
-      - image: /images/uploads/p1.png
-      - image: /images/uploads/p2.png
-      - image: /images/uploads/p3.png
+      - image: >-
+          /images/uploads/t-6968a-18e_triumph_spring_run_-_the_denver_4-plex__bldg-1__walkout_scene_01_2018-02-21_-_2-1-.png
+        label: Artist rendition of front view
+      - image: >-
+          /images/uploads/t-6968a-18e_triumph_spring_run_-_the_denver_4-plex__bldg-1__walkout_scene_02_2018-02-21_-_1-1-.png
+        label: Artist rendition of back view
     title: You'll Find the Perfect Look
     type: images_only
   - content: >-
