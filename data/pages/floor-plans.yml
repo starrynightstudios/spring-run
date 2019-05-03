@@ -147,3 +147,40 @@ sections:
       - image: /images/uploads/redwood-derivative-second-floor.png
         label: Second floor plans of The Redwood Derivative
     type: images_only
+  - content: |-
+      ## Specifications
+
+      * 3 bed
+      * 3 bath
+      * 2 car garage
+      * 9ft. ceiling on Main
+      * Vaulted area on Main
+      * Unfinished basement
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **1,038 sq. ft**
+      * 2nd Level **824 sq. ft.**
+      * Total Finished **1,862 sq. ft.**
+      * Basement (unfinished) **1,049 sq. ft.**
+      * Total Square Feet (with Basement) **2,911 sq. ft.**
+
+      * 2-Car Garage **420 sq. ft.**
+      * Total Square Feet (with garage) **3,331 sq. ft.**
+    images:
+      - image: /images/uploads/aspen-elevation.png
+        label: Artist rendition of The Aspen Elevation
+    title: The Aspen
+    type: images_left
+  - files:
+      - file: /images/uploads/spring_run_aspen.pdf
+        label: Download Brochure
+    images:
+      - image: /images/uploads/aspen-first-floor.png
+        label: First floor plans of The Aspen
+      - image: /images/uploads/aspen-second-floor.png
+        label: Second floor plans of The Aspen
+      - image: /images/uploads/aspen-basement.png
+        label: Basement floor plans of The Aspen
+    type: images_only
