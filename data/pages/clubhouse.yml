@@ -5,59 +5,16 @@ sections:
   - content: ''
     images:
       - image: /images/uploads/cp1.png
-    title: Future Clubhouse
-    type: header
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-      velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-      cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-      est laborum.
-
-
-      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
-
-      * **sed** do eiusmod tempor incididunt ut labore et dolore
-
-      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
-
-      * **laboris nisi** ut aliquip ex ea commodo consequat.
-    images:
-      - image: /images/uploads/cp1.png
         label: Rendered image of future clubhouse (back)
     title: ''
-    type: images_left
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-
-      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
-
-      * **sed** do eiusmod tempor incididunt ut labore et dolore
-
-      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
-
-      * **laboris nisi** ut aliquip ex ea commodo consequat.
+    type: images_only
+  - content: ''
     images:
       - image: /images/uploads/cp2.png
         label: Rendered image of future clubhouse (front)
-    type: images_right
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-
-      * **Lorem ipsum** dolor sit amet, consectetur adipiscing elit
-
-      * **sed** do eiusmod tempor incididunt ut labore et dolore
-
-      * **Ut enim ad** minim veniam, quis nostrud exercitation ullamco
-
-      * **laboris nisi** ut aliquip ex ea commodo consequat.
+    type: images_only
+  - content: ''
     images:
       - image: /images/uploads/cfp1.png
         label: Future clubhouse floor plans
-    type: images_left
+    type: images_only
