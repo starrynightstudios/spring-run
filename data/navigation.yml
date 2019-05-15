@@ -7,7 +7,5 @@ links:
     url: /community
   - label: Clubhouse
     url: /clubhouse
-  - label: Elevations
-    url: /elevations
-  - label: Floor Plans
+  - label: Elevations & Floor Plans
     url: /floor-plans
