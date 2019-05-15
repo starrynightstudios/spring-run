@@ -2,6 +2,8 @@ slug: clubhouse
 title: Future Clubhouse
 description: clubhouse description
 sections:
+  - title: Future Clubhouse
+    type: header
   - content: ''
     images:
       - image: /images/uploads/cp1.png
