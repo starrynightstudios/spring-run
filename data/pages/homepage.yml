@@ -43,7 +43,7 @@ sections:
     title: Phases
     type: content_only
   - content: |-
-      **Contact**
+      ## Contact
 
       **Aaron Schroeder** [**801-808-7096**](tel:8018087096)
 
@@ -51,7 +51,7 @@ sections:
 
 
 
-      **Model Home Hours:**
+      ## Model Home Hours
 
       **To Be Established When Model Is Completed**
     title: Appointments to See
