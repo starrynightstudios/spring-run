@@ -11,11 +11,6 @@ description: >-
   labore et dolore magna aliqua.
 sections:
   - content: ''
-    images:
-      - image: /images/uploads/untitled.jpg
-    title: The Perfect Location
-    type: header
-  - content: ''
     files:
       - label: Get Directions
         url: >-
