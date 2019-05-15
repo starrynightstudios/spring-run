@@ -36,62 +36,23 @@ sections:
 
       ##
     type: content_only
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+  - content: |-
+      ## Phase 1
 
-
-      1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-
-      2. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-      ut aliquip ex ea commodo consequat.
-
-      3. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-      dolore eu fugiat nulla pariatur.
-
-      4. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-      officia deserunt mollit anim id est laborum.
-    title: Timeline
-    type: content_only
-  - content: >-
-      ## Phase 1 
-
-
-      **Fall 2019**
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
-
-
-
-
-      ## Phase 2
-
-
-      **Spring 2020**
-
-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+      156 Townhomes in 6 phases. Construction of homes will being in July, 2018.
     title: Phases
     type: content_only
-  - content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+  - content: |-
+      **Contact**
+
+      **Aaron Schroeder **[**801-808-7096**](tel:8018087096)
+
+      **Jess Schroeder **[**801-809-4997**](tel:8018094997)
 
 
-      * Phone
 
-      * Email
+      **Model Home Hours:**
 
-      * Address
+      **To Be Established When Model Is Completed**
     title: Appointments to See
     type: content_only
