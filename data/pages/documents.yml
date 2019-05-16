@@ -8,11 +8,11 @@ sections:
       - file: /images/uploads/1-11-19_redwood_derivative.pdf
         label: Sample Buyers Agreement
     title: Legal Stuff
-    type: content_only
+    type: link_list
   - files:
       - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
         label: Some Other Thing to Download
       - file: /images/uploads/1-11-19_birch_derivative.pdf
         label: And Another Thing
     title: Another Section
-    type: content_only
+    type: link_list
