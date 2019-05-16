@@ -1,9 +1,9 @@
 <% hero_image = section.images.present? && section.images.length ? section.images.first : nil %>
 
-<section class="hero is-primary is-medium is-bold <%= 'has-background-image' if hero_image.present? %>" style="background-image: url(<%= hero_image.image %>)">
+<section class="hero <%= "is-fullheight" if hero_image.present? %> is-bold <%= 'has-background-image' if hero_image.present? %>" style="background-image: url(<%= hero_image.image if hero_image.present? %>)">
   <div class="hero-body">
     <div class="container">
-      <h1 class="title has-text-centered is-1 is-size-3-mobile">
+      <h1 class="title has-text-centered is-1 is-size-1 is-size-3-mobile">
         <%= section.title %>
       </h1>
       <% if section.subtitle.present? %>
