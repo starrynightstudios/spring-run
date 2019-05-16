@@ -2,9 +2,7 @@ slug: floor-plans
 title: Floor Plans
 description: description
 sections:
-  - images:
-      - image: >-
-          /images/uploads/t-6968a-18e_triumph_spring_run_-_the_denver_4-plex__bldg-1__walkout_scene_01_2018-02-21_-_2-1-.png
+  - images: []
     title: Floor Plans
     type: header
   - content: |-
@@ -169,18 +167,111 @@ sections:
       * 2-Car Garage **420 sq. ft.**
       * Total Square Feet (with garage) **3,331 sq. ft.**
     images:
-      - image: /images/uploads/aspen-elevation.png
+      - image: /images/uploads/aspenf.png
         label: Artist rendition of The Aspen Elevation
     title: The Aspen
     type: images_left
   - files:
-      - file: /images/uploads/spring_run_aspen.pdf
+      - file: /images/uploads/2019-5-7-aspen-w_o-logo.pdf
         label: Download Brochure
     images:
-      - image: /images/uploads/aspen-first-floor.png
-        label: First floor plans of The Aspen
-      - image: /images/uploads/aspen-second-floor.png
-        label: Second floor plans of The Aspen
-      - image: /images/uploads/aspen-basement.png
-        label: Basement floor plans of The Aspen
+      - image: /images/uploads/aspen1.png
+      - image: /images/uploads/aspen2.png
+      - image: /images/uploads/aspenb.png
+    type: images_only
+  - content: |-
+      ## Specifications
+
+      * 3 bed
+      * 3 bath
+      * 2 car garage
+      * 9ft. ceiling on Main
+      * Vaulted area on Main
+      * Unfinished basement
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **722 sq. ft**
+      * 2nd Level **937 sq. ft.**
+      * Total Finished **1,659 sq. ft.**
+      * Basement (unfinished) **756 sq. ft.**
+      * Total Square Feet (with Basement) **2,415 sq. ft.**
+      * 2-Car Garage **454 sq. ft.**
+      * Total Square Feet (with garage) **2,869 sq. ft.**
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.16.05-pm.png
+    title: The Cottonwood - Derivative
+    type: images_left
+  - files:
+      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
+        label: Download Brochure
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.45-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.50-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.58-pm.png
+    type: images_only
+  - content: |-
+      ## Specifications
+
+      * 3 bed
+      * 3 bath
+      * 2 car garage
+      * 9ft. ceiling on Main
+      * Vaulted area on Main
+      * Unfinished basement
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **722 sq. ft**
+      * 2nd Level **917 sq. ft.**
+      * Total Finished **1,639 sq. ft.**
+      * Basement (unfinished) **755 sq. ft.**
+      * Total Square Feet (with Basement) **2,394 sq. ft.**
+      * 2-Car Garage **418 sq. ft.**
+      * Total Square Feet (with garage) **2,812 sq. ft.**
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.17-pm.png
+    title: The Cottonwood
+    type: images_left
+  - files:
+      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
+        label: Download Brochure
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.24.54-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.03-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.10-pm.png
+    type: images_only
+  - content: |-
+      ## Specifications
+
+      * 3 bed
+      * 3 bath
+      * 2 car garage
+      * 9ft. ceiling on Main
+      * Vaulted area on Main
+      * Unfinished basement
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **713 sq. ft**
+      * 2nd Level **1,095 sq. ft.**
+      * Total Finished **1,808 sq. ft.**
+      * Basement (unfinished) **739 sq. ft.**
+      * Total Square Feet (with Basement) **2,547 sq. ft.**
+      * 2-Car Garage **474 sq. ft.**
+      * Total Square Feet (with garage) **3,021 sq. ft.**
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.30.15-pm.png
+    title: The Dover
+    type: images_left
+  - files:
+      - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
+        label: Download Brochure
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.29.48-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.29.55-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.30.04-pm.png
     type: images_only
