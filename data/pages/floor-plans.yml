@@ -167,18 +167,15 @@ sections:
       * 2-Car Garage **420 sq. ft.**
       * Total Square Feet (with garage) **3,331 sq. ft.**
     images:
-      - image: /images/uploads/aspen-elevation.png
+      - image: /images/uploads/aspenf.png
         label: Artist rendition of The Aspen Elevation
     title: The Aspen
     type: images_left
   - files:
-      - file: /images/uploads/spring_run_aspen.pdf
+      - file: /images/uploads/2019-5-7-aspen-w_o-logo.pdf
         label: Download Brochure
     images:
-      - image: /images/uploads/aspen-first-floor.png
-        label: First floor plans of The Aspen
-      - image: /images/uploads/aspen-second-floor.png
-        label: Second floor plans of The Aspen
-      - image: /images/uploads/aspen-basement.png
-        label: Basement floor plans of The Aspen
+      - image: /images/uploads/aspen1.png
+      - image: /images/uploads/aspen2.png
+      - image: /images/uploads/aspenb.png
     type: images_only
