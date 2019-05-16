@@ -211,3 +211,35 @@ sections:
       - image: /images/uploads/screen-shot-2019-05-16-at-1.15.50-pm.png
       - image: /images/uploads/screen-shot-2019-05-16-at-1.15.58-pm.png
     type: images_only
+  - content: |-
+      ## Specifications
+
+      * 3 bed
+      * 3 bath
+      * 2 car garage
+      * 9ft. ceiling on Main
+      * Vaulted area on Main
+      * Unfinished basement
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **722 sq. ft**
+      * 2nd Level **917 sq. ft.**
+      * Total Finished **1,639 sq. ft.**
+      * Basement (unfinished) **755 sq. ft.**
+      * Total Square Feet (with Basement) **2,394 sq. ft.**
+      * 2-Car Garage **418 sq. ft.**
+      * Total Square Feet (with garage) **2,812 sq. ft.**
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.17-pm.png
+    title: The Cottonwood
+    type: images_left
+  - files:
+      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
+        label: Download Brochure
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.24.54-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.03-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.10-pm.png
+    type: images_only
