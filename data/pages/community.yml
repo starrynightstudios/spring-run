@@ -4,6 +4,8 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. 
 sections:
+  - title: Community
+    type: header
   - content: ''
     images:
       - image: /images/uploads/screen-shot-2018-07-23-at-7.54.35-pm.png
