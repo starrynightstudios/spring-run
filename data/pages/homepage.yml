@@ -10,6 +10,10 @@ sections:
     subtitle: The Perfect Life!
     title: Spring Run
     type: header
+  - content: '# ... the perfect life!'
+    images:
+      - image: /images/uploads/summerfunblowingdandilions.jpg
+    type: images_left
   - images:
       - image: /images/uploads/summerfun_familyoutside.jpg
       - image: /images/uploads/untitled.jpg
