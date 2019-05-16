@@ -179,3 +179,35 @@ sections:
       - image: /images/uploads/aspen2.png
       - image: /images/uploads/aspenb.png
     type: images_only
+  - content: |-
+      ## Specifications
+
+      * 3 bed
+      * 3 bath
+      * 2 car garage
+      * 9ft. ceiling on Main
+      * Vaulted area on Main
+      * Unfinished basement
+      * Back patio with lawn
+
+      ## Calculations
+
+      * 1st Level **722 sq. ft**
+      * 2nd Level **937 sq. ft.**
+      * Total Finished **1,659 sq. ft.**
+      * Basement (unfinished) **756 sq. ft.**
+      * Total Square Feet (with Basement) **2,415 sq. ft.**
+      * 2-Car Garage **454 sq. ft.**
+      * Total Square Feet (with garage) **2,869 sq. ft.**
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.16.05-pm.png
+    title: The Cottonwood - Derivative
+    type: images_left
+  - files:
+      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
+        label: Download Brochure
+    images:
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.45-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.50-pm.png
+      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.58-pm.png
+    type: images_only
