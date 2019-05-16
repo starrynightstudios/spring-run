@@ -1,0 +1,22 @@
+<section class="section">
+  <div class="container">
+    <%= partial 'partials/section_header', locals: { section: section } %>
+    <%= partial 'partials/files_list', locals: { files: section&.files } %>
+
+    <div class="menu">
+      <ul class="menu-list">
+        <% files.each do |file| %>
+          <li>
+            <a href="<%= file.file || file.url %>">
+              <%= file.label %>
+              <% file.file.present? %>
+                <span class="tag is-primary">Download</span>
+              <% end %>
+            </a>
+          </li>
+      <% end %>
+      </ul>
+    </div>
+    
+  </div>
+</section>
