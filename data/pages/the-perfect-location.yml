@@ -10,6 +10,8 @@ description: >-
   sit amet, consectetur adipiscing elit  sed do eiusmod tempor incididunt ut
   labore et dolore magna aliqua.
 sections:
+  - title: The Perfect Location
+    type: header
   - content: ''
     files:
       - label: Get Directions
