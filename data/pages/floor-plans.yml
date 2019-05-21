@@ -275,3 +275,7 @@ sections:
       - image: /images/uploads/screen-shot-2019-05-16-at-1.29.55-pm.png
       - image: /images/uploads/screen-shot-2019-05-16-at-1.30.04-pm.png
     type: images_only
+  - images:
+      - image: /images/uploads/23c4a36303ee6e4caaf4acec0bd70b88-triumphcmg.png
+      - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
+    type: images_only
