@@ -7,7 +7,7 @@ sections:
   - content: '# ... the perfect life!'
     images:
       - image: /images/uploads/summerfunblowingdandilions.jpg
-    title: ... the perfect life!
+    title: ''
     type: images_left
   - images:
       - image: /images/uploads/summerfun_familyoutside.jpg
