@@ -1,11 +1,13 @@
 slug: documents
-title: Documents
+title: Spring Run Townhome Documents
 description: DESCRIPTION
 sections:
+  - title: Spring Run Townhome Documents
+    type: header
   - files:
       - file: /images/uploads/1-11-19_birch.pdf
         label: HOA Agreement
       - file: /images/uploads/1-11-19_redwood_derivative.pdf
         label: Sample Buyers Agreement
-    title: Legal Stuff
+    title: ''
     type: link_list
