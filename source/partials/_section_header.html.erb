@@ -1,9 +1,11 @@
-<header>
-  <% if section.title.present? %>
-    <p class="title is-1 is-size-2-mobile"><%= section.title %></p>
-  <% end %>
-  <% if  section.subtitle.present? %>
-    <p class="subtitle is-3 is-size-4-mobile"><%= section.subtitle %></p>
-  <% end %>
-  <hr class="is-invisible" />
-</header>
+<% if section.title.present? || section.subtitle.present? %>
+  <header>
+    <% if section.title.present? %>
+      <p class="title is-1 is-size-2-mobile"><%= section.title %></p>
+    <% end %>
+    <% if  section.subtitle.present? %>
+      <p class="subtitle is-3 is-size-4-mobile"><%= section.subtitle %></p>
+    <% end %>
+    <hr class="is-invisible" />
+  </header>
+<% end %>
