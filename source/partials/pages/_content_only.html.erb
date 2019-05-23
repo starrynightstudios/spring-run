@@ -1,7 +1,7 @@
 <section class="section">
   <div class="container">
     <%= partial 'partials/section_header', locals: { section: section } %>
-    <div class="content is-medium">
+    <div class="content is-large">
       <%= markdown section.content %>
     </div>
     <%= partial 'partials/files_list', locals: { files: section&.files } %>
