@@ -21,4 +21,5 @@ sections:
         label: The Cottonwood
       - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
         label: The Dover
+    title: Floor Plan Options
     type: link_list
