@@ -51,3 +51,17 @@ sections:
   - content: ''
     title: Come have fun with us!
     type: header
+  - content: |-
+      ### Phase 1
+      156 Townhomes in 6 phases. Construction of homes will being in July, 2018.
+    title: Phases
+    type: content_only
+  - content: |-
+      ### Contact
+      **Aaron Schroeder** [**801-808-7096**](tel:8018087096)
+      **Jess Schroeder** [**801-809-4997**](tel:8018094997)
+      ### Model Home Hours
+      **To Be Established When Model Is Completed**
+    title: Appointments to See
+    type: content_only
+
