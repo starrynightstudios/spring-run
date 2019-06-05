@@ -2,17 +2,19 @@
   <div class="container">
     <%= partial 'partials/section_header', locals: { section: section, is_centered: true } %>
 
-    <div class="menu">
-      <ul class="menu-list">
-        <% section&.files.each do |file| %>
-          <li>
-            <a href="<%= file.file.present? ? file.file : file.url %>" class="is-size-4 is-size-5-mobile has-text-centered">
-              <%= file.label %>
-            </a>
-          </li>
-      <% end %>
-      </ul>
-    </div>
+    <% if section && section.files && section.files.length %>
+      <div class="menu">
+        <ul class="menu-list">
+          <% section&.files.each do |file| %>
+            <li>
+              <a href="<%= file.file.present? ? file.file : file.url %>" class="is-size-4 is-size-5-mobile has-text-centered">
+                <%= file.label %>
+              </a>
+            </li>
+        <% end %>
+        </ul>
+      </div>
+    <% end %>
     
   </div>
 </section>

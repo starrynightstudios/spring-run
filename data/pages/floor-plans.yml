@@ -18,7 +18,7 @@ sections:
         url: '#the-aspen'
       - file: ''
         label: The Cottonwood - Derivative
-        url: '#the-cottonwood-derivative'
+        url: '#the-cottonwood---derivative'
       - file: ''
         label: The Cottonwood
         url: '#the-cottonwood'
@@ -43,11 +43,14 @@ sections:
         url: '#the-birch'
       - file: ''
         label: The Birch - Derivative
-        url: '#the-birch-derivative'
+        url: '#the-birch---derivative'
       - file: ''
         label: The Redwood - Derivative
-        url: '#the-redwood-derivative'
+        url: '#the-redwood---derivative'
     title: Floor Plan Options
+    type: link_list
+  - subtitle: '$299,990'
+    title: Priced From
     type: link_list
   - content: |-
       ## Specifications
