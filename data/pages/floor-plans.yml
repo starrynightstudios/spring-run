@@ -13,10 +13,12 @@ sections:
       - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
     type: images_only
   - files:
-      - file: /images/uploads/2019-5-7-aspen-w_o-logo.pdf
+      - file: ''
         label: The Aspen
-      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
+        url: '#the-aspen'
+      - file: ''
         label: The Cottonwood - Derivative
+        url: '#the-cottonwood-derivative'
       - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
         label: The Cottonwood
       - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
