@@ -6,7 +6,7 @@
       <ul class="menu-list">
         <% section&.files.each do |file| %>
           <li>
-            <a href="<%= file.file || file.url %>" class="is-size-4 is-size-5-mobile has-text-centered">
+            <a href="<%= file.file.present? ? file.file : file.url %>" class="is-size-4 is-size-5-mobile has-text-centered">
               <%= file.label %>
             </a>
           </li>
