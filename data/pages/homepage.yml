@@ -4,41 +4,49 @@ description: >-
   Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
   ipsum Lorem ipsum Lorem ipsum 
 sections:
-  - content: '# ... the perfect life!'
-    images:
-      - image: /images/uploads/summerfunblowingdandilions.jpg
-    title: ''
-    type: images_left
+  - content: ''
+    title: ... the perfect life!
+    type: header
   - images:
+      - image: /images/uploads/summerfunblowingdandilions.jpg
       - image: /images/uploads/summerfun_familyoutside.jpg
       - image: /images/uploads/summerfun_familybikingwoods-2-1-.jpg
     title: ''
     type: images_only
+  - content: ''
+    images:
+      - image: /images/uploads/23c4a36303ee6e4caaf4acec0bd70b88-triumphcmg.png
+    title: ...the perfect life-style community!
+    type: images_only
+  - content: ''
+    images:
+      - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
+    type: images_only
   - content: >-
-      Spring Run is a place to enjoy a happy life and to play. There will be two
-      large grassed parks for the entire community. The first park will be ready
-      for family fun in the fall of 2017. The combined parks will have
-      playground equipment with swings, slides, climbing, a pavilion & tables
-      for playing and dreaming.
+      Spring Run is a place to play and enjoy a happy life. There will be two
+      large grassed parks for the
 
+      entire community. The first park is ready for family fun. The two parks
+      will have playground
+
+      equipment with slides, climbing, strength & skill features. They will
+      include pickle ball courts, basket
+
+      ball and a pavilion with tables. The parks are are designed for playing
+      and dreaming.
 
       The parks will be connected to the community by over 5 miles of trails for
-      walking, jogging and biking. Trails will lead to a hill-top park with
-      commanding views of the Wasatch mountains and Utah Lake.
+      walking, jogging and
 
+      biking. Trails will lead to a hill-top park with commanding views of the
+      Wasatch mountains and Utah
 
-      The townhomes will also have their own private places to play. It will
-      have its own children’s park, a clubhouse, a swimming pool and meandering
-      trails through the village. Come have fun with us!
+      Lake.
 
+      The townhomes will also have their own private places to play. They will
+      have a clubhouse, a
 
-      ##
-    type: content_only
-  - content: |-
-      #### Phase 1
-
-      156 Townhomes in 6 phases. Construction of homes will being in July, 2018.
-    title: Phases
+      swimming pool and meandering trails through the village.
     type: content_only
   - content: |-
       #### Contact
@@ -52,5 +60,5 @@ sections:
       #### Model Home Hours
 
       **To Be Established When Model Is Completed**
-    title: Appointments to See
-    type: content_only
+    title: Come have fun with us!
+    type: header
