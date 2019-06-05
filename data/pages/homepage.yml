@@ -35,13 +35,13 @@ sections:
       ##
     type: content_only
   - content: |-
-      ### Phase 1
+      #### Phase 1
 
       156 Townhomes in 6 phases. Construction of homes will being in July, 2018.
     title: Phases
     type: content_only
   - content: |-
-      ### Contact
+      #### Contact
 
       **Aaron Schroeder** [**801-808-7096**](tel:8018087096)
 
@@ -49,7 +49,7 @@ sections:
 
 
 
-      ### Model Home Hours
+      #### Model Home Hours
 
       **To Be Established When Model Is Completed**
     title: Appointments to See
