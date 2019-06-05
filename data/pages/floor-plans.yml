@@ -27,6 +27,9 @@ sections:
         url: '#the-dover'
     title: Floor Plan Options
     type: link_list
+  - subtitle: '$299,990'
+    title: Priced From
+    type: link_list
   - images:
       - image: /images/uploads/screen-shot-2019-06-05-at-8.58.18-am.png
     title: 2 Story Walk-Up Units
