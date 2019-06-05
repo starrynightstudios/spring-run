@@ -13,18 +13,18 @@ sections:
       - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
     type: images_only
   - files:
-      - file: ''
+      - file: /images/uploads/2019-5-7-aspen-w_o-logo.pdf
         label: The Aspen
-        url: '#the-aspen'
-      - file: ''
+        url: ''
+      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
         label: The Cottonwood - Derivative
-        url: '#the-cottonwood---derivative'
-      - file: ''
+        url: ''
+      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
         label: The Cottonwood
-        url: '#the-cottonwood'
-      - file: ''
+        url: ''
+      - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
         label: The Dover
-        url: '#the-dover'
+        url: ''
     title: Floor Plan Options
     type: link_list
   - subtitle: '$299,990'
@@ -35,265 +35,20 @@ sections:
     title: 2 Story Walk-Up Units
     type: images_only
   - files:
-      - file: ''
+      - file: /images/uploads/1-11-19_redwood.pdf
         label: The Redwood
-        url: '#the-redwood'
-      - file: ''
+        url: ''
+      - file: /images/uploads/1-11-19_birch.pdf
         label: The Birch
-        url: '#the-birch'
-      - file: ''
+        url: ''
+      - file: /images/uploads/1-11-19_birch_derivative.pdf
         label: The Birch - Derivative
-        url: '#the-birch---derivative'
-      - file: ''
+        url: ''
+      - file: /images/uploads/1-11-19_redwood_derivative.pdf
         label: The Redwood - Derivative
-        url: '#the-redwood---derivative'
+        url: ''
     title: Floor Plan Options
     type: link_list
   - subtitle: '$299,990'
     title: Priced From
     type: link_list
-  - content: |-
-      ## Specifications
-      * 2 bed
-      * 2 bath
-      * 2 car garage
-      * 9ft. ceiling on 1st level
-      * 9-6ft. coffered 2nd level
-      * Unfinished 1st level bonus
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **201 sq. ft**
-      * 2nd Level **1,362 sq. ft.**
-      * Total Finished **1,563 sq. ft.**
-      * 1st Level (unfinished) **706 sq. ft.**
-      * Total Square Feet (with unfinished) **2,269 sq. ft.**
-      * 2-Car Garage **466 sq. ft.**
-      * Total Square Feet (with garage) **2,735 sq. ft.**
-    images:
-      - image: /images/uploads/redwood-elevation.png
-        label: Artist rendition of The Redwood Elevation
-    title: The Redwood
-    type: images_left
-  - files:
-      - file: /images/uploads/1-11-19_redwood.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/redwood-first-floor.png
-        label: First Floor Plans for The Redwood
-      - image: /images/uploads/redwood-second-floor.png
-        label: Second Floor Plans for The Redwood
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 2 bed
-      * 2 bath
-      * 2 car garage
-      * 9ft. ceiling on 1st level
-      * 9-6ft. coffered 2nd level
-      * Unfinished 1st level bonus
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **188 sq. ft**
-      * 2nd Level **1,256 sq. ft.**
-      * Total Finished **1,444 sq. ft.**
-      * 1st Level (unfinished) **660 sq. ft.**
-      * Total Square Feet (with unfinished) **2,104 sq. ft.**
-      * 2-Car Garage **421 sq. ft.**
-      * Total Square Feet (with garage) **2,525 sq. ft.**
-    images:
-      - image: /images/uploads/birch-elevation.png
-        label: Artist rendition of The Birch Elevation
-    title: The Birch
-    type: images_left
-  - files:
-      - file: /images/uploads/1-11-19_birch.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/birch-first-floor.png
-        label: First floor plans of The Birch
-      - image: /images/uploads/birch-second-floor.png
-        label: Second floor plans of The Birch
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 2 bed
-      * 2 bath
-      * 2 car garage
-      * 9ft. ceiling on 1st level
-      * 9-6ft. coffered 2nd level
-      * Unfinished 1st level bonus
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **188 sq. ft**
-      * 2nd Level **1,256 sq. ft.**
-      * Total Finished **1,444 sq. ft.**
-      * 1st Level (unfinished) **660 sq. ft.**
-      * Total Square Feet (with unfinished) **2,104 sq. ft.**
-      * 2-Car Garage **421 sq. ft.**
-      * Total Square Feet (with garage) **2,525 sq. ft.**
-    images:
-      - image: /images/uploads/birch-derivative-elevation.png
-        label: Artist rendition of The Birch Derivative
-    title: The Birch - Derivative
-    type: images_left
-  - files:
-      - file: /images/uploads/1-11-19_birch_derivative.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/birch-derivative-first-floor.png
-        label: First floor plans of The Birch Derivative
-      - image: /images/uploads/birch-derivative-second-floor.png
-        label: Second floor plans of The Birch Derivative
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 2 bed
-      * 2 bath
-      * 2 car garage
-      * 9ft. ceiling on 1st level
-      * 9-6ft. coffered 2nd level
-      * Unfinished 1st level bonus
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **201 sq. ft**
-      * 2nd Level **1,362 sq. ft.**
-      * Total Finished **1,563 sq. ft.**
-      * 1st Level (unfinished) **706 sq. ft.**
-      * Total Square Feet (with unfinished) **2,269 sq. ft.**
-      * 2-Car Garage **466 sq. ft.**
-      * Total Square Feet (with garage) **2,735 sq. ft.**
-    images:
-      - image: /images/uploads/redwood-derivative-elevation.png
-        label: Artist rendition of The Redwood Derivative Elevation
-    title: The Redwood - Derivative
-    type: images_left
-  - files:
-      - file: /images/uploads/1-11-19_redwood_derivative.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/redwood-derivative-first-floor.png
-        label: First floor plans of The Redwood Derivative
-      - image: /images/uploads/redwood-derivative-second-floor.png
-        label: Second floor plans of The Redwood Derivative
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 3 bed
-      * 3 bath
-      * 2 car garage
-      * 9ft. ceiling on Main
-      * Vaulted area on Main
-      * Unfinished basement
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **1,038 sq. ft**
-      * 2nd Level **824 sq. ft.**
-      * Total Finished **1,862 sq. ft.**
-      * Basement (unfinished) **1,049 sq. ft.**
-      * Total Square Feet (with Basement) **2,911 sq. ft.**
-      * 2-Car Garage **420 sq. ft.**
-      * Total Square Feet (with garage) **3,331 sq. ft.**
-    images:
-      - image: /images/uploads/aspenf.png
-        label: Artist rendition of The Aspen Elevation
-    title: The Aspen
-    type: images_left
-  - files:
-      - file: /images/uploads/2019-5-7-aspen-w_o-logo.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/aspen1.png
-      - image: /images/uploads/aspen2.png
-      - image: /images/uploads/aspenb.png
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 3 bed
-      * 3 bath
-      * 2 car garage
-      * 9ft. ceiling on Main
-      * Vaulted area on Main
-      * Unfinished basement
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **722 sq. ft**
-      * 2nd Level **937 sq. ft.**
-      * Total Finished **1,659 sq. ft.**
-      * Basement (unfinished) **756 sq. ft.**
-      * Total Square Feet (with Basement) **2,415 sq. ft.**
-      * 2-Car Garage **454 sq. ft.**
-      * Total Square Feet (with garage) **2,869 sq. ft.**
-    images:
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.16.05-pm.png
-    title: The Cottonwood - Derivative
-    type: images_left
-  - files:
-      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.45-pm.png
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.50-pm.png
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.15.58-pm.png
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 3 bed
-      * 3 bath
-      * 2 car garage
-      * 9ft. ceiling on Main
-      * Vaulted area on Main
-      * Unfinished basement
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **722 sq. ft**
-      * 2nd Level **917 sq. ft.**
-      * Total Finished **1,639 sq. ft.**
-      * Basement (unfinished) **755 sq. ft.**
-      * Total Square Feet (with Basement) **2,394 sq. ft.**
-      * 2-Car Garage **418 sq. ft.**
-      * Total Square Feet (with garage) **2,812 sq. ft.**
-    images:
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.17-pm.png
-    title: The Cottonwood
-    type: images_left
-  - files:
-      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.24.54-pm.png
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.03-pm.png
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.25.10-pm.png
-    type: images_only
-  - content: |-
-      ## Specifications
-      * 3 bed
-      * 3 bath
-      * 2 car garage
-      * 9ft. ceiling on Main
-      * Vaulted area on Main
-      * Unfinished basement
-      * Back patio with lawn
-      ## Calculations
-      * 1st Level **713 sq. ft**
-      * 2nd Level **1,095 sq. ft.**
-      * Total Finished **1,808 sq. ft.**
-      * Basement (unfinished) **739 sq. ft.**
-      * Total Square Feet (with Basement) **2,547 sq. ft.**
-      * 2-Car Garage **474 sq. ft.**
-      * Total Square Feet (with garage) **3,021 sq. ft.**
-    images:
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.30.15-pm.png
-    title: The Dover
-    type: images_left
-  - files:
-      - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
-        label: Download Brochure
-    images:
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.29.48-pm.png
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.29.55-pm.png
-      - image: /images/uploads/screen-shot-2019-05-16-at-1.30.04-pm.png
-    type: images_only
-  - images:
-      - image: /images/uploads/23c4a36303ee6e4caaf4acec0bd70b88-triumphcmg.png
-      - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
-    type: images_only
