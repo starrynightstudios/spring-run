@@ -7,8 +7,9 @@ $family-custom: 'Handlee', cursive;
 // Use the new serif family
 $family-primary: $family-custom;
 
-$blue: #153f7a;
+$blue: #1F548E;
 $primary: $blue;
+$info: #0495FF;
 
 @import "bulma/sass/utilities/derived-variables";
 @import "bulma/bulma";

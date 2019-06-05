@@ -57,8 +57,12 @@
 @media screen and (min-width: 1088px) {
   .navbar-end {
     margin: auto;
-    background-color: $primary;
+    background-color: $info;
     padding: 0 2em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 
     .navbar-item {
       color: $white !important;
@@ -76,4 +80,9 @@
 .section {
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+
+
+.title, .subtitle {
+  color: $primary;
 }
