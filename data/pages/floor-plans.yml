@@ -5,11 +5,9 @@ sections:
   - images: []
     title: Spring Run Townhom Elevations & Floor Plans
     type: header
-  - content: '## 3 Story Units With Walk-Out Basements'
-    type: content_only
   - images:
       - image: /images/uploads/23c4a36303ee6e4caaf4acec0bd70b88-triumphcmg.png
-    title: ''
+    title: 3 Story Units With Walk-Out Basements
     type: images_only
   - images:
       - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
