@@ -19,10 +19,12 @@ sections:
       - file: ''
         label: The Cottonwood - Derivative
         url: '#the-cottonwood-derivative'
-      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
+      - file: ''
         label: The Cottonwood
-      - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
+        url: '#the-cottonwood'
+      - file: ''
         label: The Dover
+        url: '#the-dover'
     title: Floor Plan Options
     type: link_list
   - images:
@@ -30,14 +32,18 @@ sections:
     title: 2 Story Walk-Up Units
     type: images_only
   - files:
-      - file: /images/uploads/1-11-19_redwood.pdf
+      - file: ''
         label: The Redwood
-      - file: /images/uploads/1-11-19_birch.pdf
+        url: '#the-redwood'
+      - file: ''
         label: The Birch
-      - file: /images/uploads/1-11-19_birch_derivative.pdf
+        url: '#the-birch'
+      - file: ''
         label: The Birch - Derivative
-      - file: /images/uploads/1-11-19_redwood_derivative.pdf
+        url: '#the-birch-derivative'
+      - file: ''
         label: The Redwood - Derivative
+        url: '#the-redwood-derivative'
     title: Floor Plan Options
     type: link_list
   - content: |-
