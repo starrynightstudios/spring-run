@@ -1,5 +1,5 @@
 slug: floor-plans
-title: Floor Plans
+title: Elevations & Floor Plans
 description: description
 sections:
   - images: []
@@ -21,5 +21,20 @@ sections:
         label: The Cottonwood
       - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
         label: The Dover
+    title: Floor Plan Options
+    type: link_list
+  - images:
+      - image: /images/uploads/screen-shot-2019-06-05-at-8.58.18-am.png
+    title: 2 Story Walk-Up Units
+    type: images_only
+  - files:
+      - file: /images/uploads/1-11-19_redwood.pdf
+        label: The Redwood
+      - file: /images/uploads/1-11-19_birch.pdf
+        label: The Birch
+      - file: /images/uploads/1-11-19_birch_derivative.pdf
+        label: The Birch - Derivative
+      - file: /images/uploads/1-11-19_redwood_derivative.pdf
+        label: The Redwood - Derivative
     title: Floor Plan Options
     type: link_list
