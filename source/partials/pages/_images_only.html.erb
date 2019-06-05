@@ -1,6 +1,6 @@
 <section class="section">
   <div class="container">
-    <%= partial 'partials/section_header', locals: { section: section } %>
+    <%= partial 'partials/section_header', locals: { section: section, is_centered: true } %>
     <% if section.images %>
       <div class="columns" data-controller="modal">
         <% section.images.each_with_index do |image, index| %>
