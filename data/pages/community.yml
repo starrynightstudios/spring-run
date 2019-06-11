@@ -8,8 +8,7 @@ sections:
     type: header
   - content: ''
     images:
-      - image: /images/uploads/spring-run-townhomes-web-site-2-1.png
-        label: Spring Run Community Map
+      - image: /images/uploads/untitled.png
     title: ''
     type: images_only
   - content: ''
