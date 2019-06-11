@@ -5,9 +5,28 @@ sections:
   - title: Spring Run Townhome Documents
     type: header
   - files:
-      - file: /images/uploads/1-11-19_birch.pdf
-        label: HOA Agreement
-      - file: /images/uploads/1-11-19_redwood_derivative.pdf
-        label: Sample Buyers Agreement
-    title: ''
+      - file: ''
+        label: Articles of Incorporation
+        url: '#'
+      - file: ''
+        label: By Laws
+        url: '#'
+      - label: CC&R’s
+        url: '#'
+      - label: Notice of Reinvestment Fee
+        url: '#'
+    title: Spring Run Townhomes & HOA Docs
+    type: link_list
+  - files:
+      - label: Purchase & Sales Agreement
+        url: '#'
+      - label: Seller Disclosures
+        url: '#'
+    title: Purchase Docs
+    type: link_list
+  - files:
+      - label: Phase 1 Plat
+        url: ''
+      - label: Phase 2 Plat (Coming Soon)
+    title: Plats
     type: link_list
