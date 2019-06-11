@@ -30,6 +30,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  a { 
+    display: block;
+    width: 100%;
+  }
 }
 
 .textarea {
@@ -57,6 +61,8 @@
 @media screen and (min-width: 1088px) {
   .navbar-end {
     margin: auto;
+    margin-left: 0.75rem;
+    margin-right: 0.75rem;
     background-color: $info;
     padding: 0 2em;
     display: flex;
@@ -77,12 +83,17 @@
   width: 100%;
 }
 
-.section {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-}
-
 
 .title, h1, h2, h3, h4, h5, h6 {
   color: $primary !important;
+}
+
+@media screen and (min-width: 1088px) {
+  .navbar-menu {
+    flex-shrink: 1;
+  }
+
+  .navbar-end {
+    flex-wrap: wrap;
+  }
 }

@@ -1,5 +1,5 @@
 <% if section.title.present? || section.subtitle.present? %>
-  <header style="margin-bottom: 1rem">
+  <header style="margin-bottom: 2rem">
     <% if section.title.present? %>
       <p id="<%= section.title.downcase.gsub!(/[^0-9A-Za-z]/, '-') %>" class="title is-2 is-size-3-mobile <%= 'has-text-centered' if is_centered %>"><%= section.title %></p>
     <% end %>
