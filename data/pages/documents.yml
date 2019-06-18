@@ -5,12 +5,14 @@ sections:
   - title: Spring Run Townhome Documents
     type: header
   - files:
-      - label: CC&R’s
+      - file: >-
+          /images/uploads/2019.01.19-ccrs-spring-run-townhomes-phase-c-plat-1.pdf
+        label: CC&R’s
         url: '#'
-      - file: ''
+      - file: /images/uploads/2019.01.25-hoa-articles-of-incorporation.pdf
         label: Articles of Incorporation
         url: '#'
-      - file: ''
+      - file: /images/uploads/2019.01.14-hoa-bylaws.pdf
         label: By Laws
         url: '#'
       - label: Notice of Reinvestment Fee
@@ -18,14 +20,18 @@ sections:
     title: Spring Run Townhomes & HOA Docs
     type: link_list
   - files:
-      - label: Purchase & Sales Agreement
+      - file: >-
+          /images/uploads/2019.01.01-purchase-and-sale-agreement-spring-run-townhomes.docx
+        label: Purchase & Sales Agreement
         url: '#'
-      - label: Seller Disclosures
+      - file: /images/uploads/2019.01.01-seller-disclosures-spring-run-townhomes.pdf
+        label: Seller Disclosures
         url: '#'
     title: Purchase Docs
     type: link_list
   - files:
-      - label: Phase 1 Plat
+      - file: /images/uploads/spring-run-phase-c1-recorded-plat.pdf
+        label: Phase 1 Plat
         url: ''
       - label: Phase 2 Plat (Coming Soon)
     title: Plats
