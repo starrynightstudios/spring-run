@@ -5,13 +5,13 @@ sections:
   - title: Spring Run Townhome Documents
     type: header
   - files:
+      - label: CC&R’s
+        url: '#'
       - file: ''
         label: Articles of Incorporation
         url: '#'
       - file: ''
         label: By Laws
-        url: '#'
-      - label: CC&R’s
         url: '#'
       - label: Notice of Reinvestment Fee
         url: '#'
