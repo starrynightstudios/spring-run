@@ -15,7 +15,8 @@ sections:
       - file: /images/uploads/2019.01.14-hoa-bylaws.pdf
         label: By Laws
         url: '#'
-      - label: Notice of Reinvestment Fee
+      - file: /images/uploads/2019-06-17-notice-of-reivestment-fee-covenant.pdf
+        label: Notice of Reinvestment Fee
         url: '#'
     title: Spring Run Townhomes & HOA Docs
     type: link_list
