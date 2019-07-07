@@ -2,25 +2,28 @@
   <div class="container">
     <div class="columns is-centered">
       <div class="column">
-        <form style="max-width: 30rem;" name="contact" method="POST" netlify>
-          <input type="hidden" name="form-name" value="contact" />
+        <form style="max-width: 30rem;" method="POST" action="https://mailthis.to/aaron@utahrealty.com">
           <p class="heading">Get in Touch</p>
           <div class="field">
             <label for="name">Name <sup class="has-text-danger">*</sup></label>
             <input type="text" name="name" required class="input" />
           </div>
           <div class="field">
-            <label for="email">Email <sup class="has-text-danger">*</sup></label>
-            <input type="email" name="email" required class="input" />
+            <label for="_replyto">Email <sup class="has-text-danger">*</sup></label>
+            <input type="email" name="_replyto" required class="input" />
           </div>
           <div class="field">
-            <label for="email">Phone Number <sup class="has-text-danger">*</sup></label>
-            <input type="tel" name="email" required class="input" />
+            <label for="phone">Phone Number <sup class="has-text-danger">*</sup></label>
+            <input type="tel" name="phone" required class="input" />
           </div>
           <div class="field">
             <label for="comments">Comments</label>
             <textarea name="comments" class="textarea" rows="4"></textarea>
           </div>
+
+          <input type="hidden" name="_subject" value="Spring Run Townhomes Contact Form">
+          <input type="hidden" name="_honeypot" value="">
+          <input type="hidden" name="_confirmation" value="Thanks for your interested. We'll get back to you as soon as we can.">
           <button type="submit" class="button is-primary">Submit</button>
         <form>
       </div>
