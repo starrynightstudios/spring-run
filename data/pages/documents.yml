@@ -22,12 +22,11 @@ sections:
     type: link_list
   - files:
       - file: >-
-          /images/uploads/2019.01.01-purchase-and-sale-agreement-spring-run-townhomes.pdf
-        label: Purchase & Sales Agreement
-        url: '#'
+          /images/uploads/2019.09.19-purchase-and-sale-agreement-spring-run-townhomes.pdf
       - file: /images/uploads/2019.01.01-seller-disclosures-spring-run-townhomes.pdf
         label: Seller Disclosures
         url: '#'
+      - {}
     title: Purchase Docs
     type: link_list
   - files:
