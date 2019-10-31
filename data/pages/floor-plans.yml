@@ -19,7 +19,7 @@ sections:
       - file: /images/uploads/the-auburn.pdf
         label: The Auburn
       - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
-        label: The Cottonwood Plus - Derivative
+        label: The Cottonwood Plus (Derivative)
         url: ''
       - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
         label: The Cottonwood
@@ -45,13 +45,13 @@ sections:
         label: The Birch
         url: ''
       - file: /images/uploads/1-11-19_birch_derivative.pdf
-        label: The Birch - Derivative
+        label: The Birch Plus (Derivative)
         url: ''
       - file: /images/uploads/1-11-19_redwood.pdf
         label: The Redwood
         url: ''
       - file: /images/uploads/1-11-19_redwood_derivative.pdf
-        label: The Redwood - Derivative
+        label: The Redwood Plus (Derivative)
         url: ''
     title: Floor Plan Options
     type: link_list
