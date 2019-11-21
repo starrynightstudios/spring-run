@@ -13,7 +13,8 @@ sections:
       - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
     type: images_only
   - files:
-      - file: /images/uploads/2019-5-7-aspen-w_o-logo.pdf
+      - file: >-
+          /images/uploads/triumph_spring-run_the-denver-w_bldg-1_mrktng-drwngs-aspen_2019-10-16.pdf
         label: The Aspen
         url: ''
       - file: /images/uploads/the-auburn.pdf
