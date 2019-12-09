@@ -13,3 +13,7 @@ $info: #0495FF;
 
 @import "bulma/sass/utilities/derived-variables";
 @import "bulma/bulma";
+
+.hidden {
+  display: none !important;
+}
