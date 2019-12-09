@@ -37,6 +37,12 @@ sections:
   - subtitle: 'Priced From $316,000'
     title: ''
     type: link_list
+  - type: embed
+    title: 'Click Here for a 3D Tour of Homes'
+    files:
+      - file: ''
+        url: 'https://bimx-webviewer.graphisoft.com/viewer?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0c191cmwiOiJ0cnNpdGU6Ly8vRG9jdW1lbnRzLzk3ODk1MmNlLWQ3YjktNGEyOS1iOTY1LWQ2YjFkNjA4Mzg5ZCIsInRzX3R5cCI6Ikh5cGVyTW9kZWwiLCJ4X2lldiI6IjAiLCJuYmYiOjE1NDA2ODYwOTUsImV4cCI6MjE0MzQxMjQ5NSwiaWF0IjoxNTc1MzMyNDk1LCJpc3MiOiJodHRwczovL2JpbXguZ3JhcGhpc29mdC5jb20iLCJhdWQiOiJodHRwczovL2JpbXgtd2Vidmlld2VyLmdyYXBoaXNvZnQuY29tIn0.u2CWqQ3FBTyMzR8J6uqbzD_5807fBE6Tr2cgfWYABU4'
+        label: ''
   - images:
       - image: /images/uploads/screen-shot-2019-06-05-at-8.58.18-am.png
     title: 2 Story Walk-Up Units
@@ -59,3 +65,9 @@ sections:
   - subtitle: 'Priced From $279,000'
     title: ''
     type: link_list
+  - type: embed
+    title: 'Click Here for a 3D Tour of Homes'
+    files:
+      - file: ''
+        url: 'https://bimx-webviewer.graphisoft.com/viewer?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0c191cmwiOiJ0cnNpdGU6Ly8vRG9jdW1lbnRzLzk3ODk1MmNlLWQ3YjktNGEyOS1iOTY1LWQ2YjFkNjA4Mzg5ZCIsInRzX3R5cCI6Ikh5cGVyTW9kZWwiLCJ4X2lldiI6IjAiLCJuYmYiOjE1NDA2ODYwOTUsImV4cCI6MjE0MzQxMjQ5NSwiaWF0IjoxNTc1MzMyNDk1LCJpc3MiOiJodHRwczovL2JpbXguZ3JhcGhpc29mdC5jb20iLCJhdWQiOiJodHRwczovL2JpbXgtd2Vidmlld2VyLmdyYXBoaXNvZnQuY29tIn0.u2CWqQ3FBTyMzR8J6uqbzD_5807fBE6Tr2cgfWYABU4'
+        label: ''

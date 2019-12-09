@@ -28,6 +28,7 @@ collections:
               - { label: "Single Column (Content only)", value: "content_only" }
               - { label: "Single Column (Images only)", value: "images_only" }
               - { label: "Link List Only", value: "link_list" }
+              - { label: "Embeddable Content", value: "embed" }
               - { label: "Two Column (Image Left)", value: "images_left" }
               - { label: "Two Column (Image Right)", value: "images_right" }
               - { label: "Page Header", value: "header" }
