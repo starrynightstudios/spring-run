@@ -63,3 +63,4 @@ sections:
       - file: /images/uploads/spring-run-phase-c-1-availability-1-28-20.pdf
         label: As of January 2020
     title: Availability
+    type: link_list
