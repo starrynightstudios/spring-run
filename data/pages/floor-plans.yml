@@ -60,7 +60,7 @@ sections:
     title: ''
     type: link_list
   - files:
-      - file: /images/uploads/spring-run-phase-c-1-availability-2-10-20.pdf
-        label: 'As of February 10, 2020'
+      - file: /images/uploads/spring-run-phase-c-1-availability-2.27.20.pdf
+        label: 'As of February 27, 2020'
     title: Availability
     type: link_list
