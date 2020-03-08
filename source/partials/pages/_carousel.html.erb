@@ -1,0 +1,16 @@
+<section class="section" data-controller="carousel">
+  <div class="container">
+    <%= partial 'partials/section_header', locals: { section: section, is_centered: true } %>
+    <% if section.images %>
+      <div data-target="carousel.container">
+
+        <% section.images.each_with_index do |image, index| %>
+          <figure class="image">
+            <%= image_tag image.image, alt: image.label, data: { index: index }, class: 'tns-lazy-img' %>
+          </figure>
+        <% end %>
+      </div>
+    <% end %>
+    <%= partial 'partials/files_list', locals: { files: section&.files } %>
+  </div>
+</section>

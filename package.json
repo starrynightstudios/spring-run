@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "bulma": "^0.7.1"
+    "bulma": "^0.7.1",
+    "tiny-slider": "^2.9.2"
   }
 }

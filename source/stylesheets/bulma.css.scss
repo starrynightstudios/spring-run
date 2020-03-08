@@ -1,6 +1,7 @@
 // 1. Import the initial variables
 @import "bulma/sass/utilities/initial-variables";
 @import "bulma/sass/utilities/functions";
+@import "tiny-slider/src/tiny-slider";
 @import url('https://fonts.googleapis.com/css?family=Handlee');
 
 $family-custom: 'Handlee', cursive;
@@ -13,3 +14,39 @@ $info: #0495FF;
 
 @import "bulma/sass/utilities/derived-variables";
 @import "bulma/bulma";
+
+.tns-outer {
+  position: relative;
+}
+
+.tns-controls {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  pointer-events: none;
+
+  > button {
+    @extend .button.is-rounded;
+    pointer-events: all;
+    position: absolute;
+    height: 3rem;
+    width: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.5rem;
+    line-height: 3.25rem;
+    padding: 0;
+    top: calc(50% - 1.5rem);
+
+    &[data-controls="prev"] {
+      left: .5rem;
+    }
+
+    &[data-controls="next"] {
+      right: .5rem;
+    }
+  }
+}
