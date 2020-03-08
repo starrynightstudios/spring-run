@@ -97,7 +97,7 @@ sections:
       - image: /images/uploads/p0.png
     subtitle: This is a subtitle
     title: Single Column (Images Only)
-    type: images_only
+    type: carousel
   - content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio.
       Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at

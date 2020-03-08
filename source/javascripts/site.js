@@ -1,6 +1,31 @@
 (() => {
   const application = Stimulus.Application.start()
 
+  application.register('carousel', class extends Stimulus.Controller {
+    static get targets() {
+      return ['container']
+    }
+    connect() {
+      this.carousel = window.tns({
+        container: this.containerTarget,
+        controls: true,
+        controlsPosition: 'bottom',
+        controlsText: ['←', '→'],
+        nav: false,
+        arrowKeys: true,
+        autoplay: true,
+        autoplayButtonOutput: false,
+        loop: true,
+        mouseDrag: true,
+        autoHeight: true,
+      })
+    }
+
+    disconnect() {
+      this.carousel.destroy()
+    }
+  })
+
   application.register('navbar', class extends Stimulus.Controller {
     static get targets() {
       return ['menu', 'button']
@@ -22,7 +47,6 @@
     }
 
     open(e) {
-      console.log('open', e.target, e.target.dataset)
       if (this.hasModalTarget) {
         this.modalTarget.classList.add('is-active')
       }
