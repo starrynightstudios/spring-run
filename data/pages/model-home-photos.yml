@@ -13,4 +13,23 @@ sections:
         label: '2.5'
       - image: /images/uploads/3_dsc4178.jpg
         label: '3'
+      - image: /images/uploads/4_dsc4172.jpg
+        label: '4'
+      - image: /images/uploads/4.5_dsc4166.jpg
+        label: '4.5'
+      - image: /images/uploads/5_dsc4169.jpg
+        label: '5'
+      - image: /images/uploads/6_dsc4175.jpg
+        label: '6'
+      - image: /images/uploads/7_dsc4184.jpg
+        label: '7'
+      - image: /images/uploads/8_dsc4190.jpg
+        label: '8'
+      - image: /images/uploads/9_dsc4193.jpg
+        label: '9'
+      - image: /images/uploads/10_dsc4196.jpg
+        label: '10'
+      - image: /images/uploads/11_dsc4199.jpg
+        label: '11'
+      - {}
     type: carousel
