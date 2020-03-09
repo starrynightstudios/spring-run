@@ -31,16 +31,22 @@ sections:
         label: '10'
       - image: /images/uploads/11_dsc4199.jpg
         label: '11'
-      - image: /images/uploads/12_dsc4202.jpg
-        label: '12'
       - image: /images/uploads/13_dsc4238.jpg
         label: '13'
       - image: /images/uploads/14_dsc4223.jpg
         label: '14'
-      - image: /images/uploads/15_dsc4232.jpg
-        label: '15'
       - image: /images/uploads/16_dsc4235.jpg
         label: '16'
       - image: /images/uploads/17_dsc4214.jpg
         label: '17'
+      - image: /images/uploads/18_dsc4217.jpg
+        label: '18'
+      - image: /images/uploads/19_dsc4163.jpg
+        label: '19'
+      - image: /images/uploads/21_dsc4148.jpg
+        label: '21'
+      - image: /images/uploads/20_dsc4154.jpg
+        label: '20'
+      - image: /images/uploads/22_dsc4160.jpg
+        label: '22'
     type: carousel
