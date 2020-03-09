@@ -1,0 +1,16 @@
+slug: Model Home
+title: Model Home Photos
+description: Spring Run Townhomes Model
+sections:
+  - title: 'Model Home Photos, The Aspen'
+    type: header
+  - images:
+      - image: /images/uploads/1_dsc4250.jpg
+        label: '1'
+      - image: /images/uploads/2_dsc4247.jpg
+        label: '2'
+      - image: /images/uploads/2.5_dsc4241.jpg
+        label: '2.5'
+      - image: /images/uploads/3_dsc4178.jpg
+        label: '3'
+    type: carousel
