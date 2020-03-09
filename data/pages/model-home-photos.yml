@@ -31,5 +31,16 @@ sections:
         label: '10'
       - image: /images/uploads/11_dsc4199.jpg
         label: '11'
-      - {}
+      - image: /images/uploads/12_dsc4202.jpg
+        label: '12'
+      - image: /images/uploads/13_dsc4238.jpg
+        label: '13'
+      - image: /images/uploads/14_dsc4223.jpg
+        label: '14'
+      - image: /images/uploads/15_dsc4232.jpg
+        label: '15'
+      - image: /images/uploads/16_dsc4235.jpg
+        label: '16'
+      - image: /images/uploads/17_dsc4214.jpg
+        label: '17'
     type: carousel
