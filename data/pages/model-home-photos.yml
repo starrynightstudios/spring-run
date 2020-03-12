@@ -49,4 +49,6 @@ sections:
         label: '20'
       - image: /images/uploads/22_dsc4160.jpg
         label: '22'
+      - image: /images/uploads/_dsc4250.jpg
+        label: Small File 1
     type: carousel
