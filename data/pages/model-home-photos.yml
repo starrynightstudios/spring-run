@@ -50,7 +50,7 @@ sections:
       - image: /images/uploads/22_dsc4160.jpg
         label: '22'
       - image: /images/uploads/_dsc4250.jpg
-        label: Small File 1
+        label: File 1
       - image: /images/uploads/_dsc4247.jpg
-        label: Small 2
+        label: File 2
     type: carousel
