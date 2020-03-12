@@ -49,8 +49,4 @@ sections:
         label: '20'
       - image: /images/uploads/22_dsc4160.jpg
         label: '22'
-      - image: /images/uploads/_dsc4250.jpg
-        label: File 1
-      - image: /images/uploads/_dsc4247.jpg
-        label: File 2
     type: carousel
