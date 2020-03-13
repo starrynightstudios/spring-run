@@ -49,4 +49,6 @@ sections:
         label: '21'
       - image: /images/uploads/_dsc4163.jpg
         label: '22'
+      - image: /images/uploads/1_dsc4250.jpg
+        label: Test
     type: carousel
