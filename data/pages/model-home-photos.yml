@@ -6,7 +6,12 @@ sections:
     type: header
   - images:
       - image: /images/uploads/1_dsc4250.jpg
-        label: Test
-      - {}
+        label: '1'
+      - image: /images/uploads/2_dsc4247.jpg
+        label: '2'
+      - image: /images/uploads/3_dsc4241.jpg
+        label: '3'
+      - image: /images/uploads/4_dsc4175.jpg
+        label: '4'
     title: The Aspen
     type: carousel
