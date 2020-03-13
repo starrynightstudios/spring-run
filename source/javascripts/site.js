@@ -14,6 +14,7 @@
         nav: false,
         arrowKeys: true,
         autoplay: true,
+        lazyload: true,
         autoplayButtonOutput: false,
         loop: true,
         mouseDrag: true,

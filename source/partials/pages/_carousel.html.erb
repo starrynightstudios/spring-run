@@ -6,7 +6,7 @@
 
         <% section.images.each_with_index do |image, index| %>
           <figure class="image">
-            <%= image_tag image.image, alt: image.label, data: { index: index }, class: 'tns-lazy-img' %>
+            <img alt="<%= image.label %>" data-index="<%= index %>" data-src="<%= image.image %>" class="tns-lazy-img" />
           </figure>
         <% end %>
       </div>
