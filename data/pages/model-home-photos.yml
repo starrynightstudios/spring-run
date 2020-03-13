@@ -6,12 +6,12 @@ sections:
     type: header
   - images:
       - image: /images/uploads/1_dsc4250.jpg
-        label: '1'
+        label: Pic 1 - Front
       - image: /images/uploads/2_dsc4247.jpg
-        label: '2'
+        label: Pic 2 - Front
       - image: /images/uploads/3_dsc4241.jpg
-        label: '3'
+        label: Pic 3 - Deck
       - image: /images/uploads/4_dsc4175.jpg
-        label: '4'
+        label: Pic 4 - Kitchen/Dining
     title: The Aspen
     type: carousel
