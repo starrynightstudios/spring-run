@@ -5,6 +5,8 @@ sections:
   - title: Model Home Photos
     type: header
   - images:
+      - image: /images/uploads/1_dsc4250.jpg
+        label: Test
       - image: /images/uploads/_dsc4247.jpg
         label: '2'
       - image: /images/uploads/_dsc4241.jpg
@@ -47,7 +49,5 @@ sections:
         label: '21'
       - image: /images/uploads/_dsc4163.jpg
         label: '22'
-      - image: /images/uploads/1_dsc4250.jpg
-        label: Test
     title: The Aspen
     type: carousel
