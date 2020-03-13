@@ -23,5 +23,31 @@ sections:
         label: Pic 8 - Dining/Kitchen
       - image: /images/uploads/9_dsc4184.jpg
         label: Pic 9 - Living
+      - image: /images/uploads/10_dsc4190.jpg
+        label: Pic 10 - Living
+      - image: /images/uploads/11_dsc4193.jpg
+        label: Pic 11 - Master
+      - image: /images/uploads/12_dsc4196.jpg
+        label: Pic 12 - Master
+      - image: /images/uploads/13_dsc4199.jpg
+        label: Pic 13 - Master Bath
+      - image: /images/uploads/14_dsc4238.jpg
+        label: Pic 14 - Upstairs/Hall
+      - image: /images/uploads/15_dsc4214.jpg
+        label: Pic 15 - Upstairs Bedroom 1
+      - image: /images/uploads/16_dsc4235.jpg
+        label: Pic 16 - Upstairs Bedroom 2
+      - image: /images/uploads/17_dsc4217.jpg
+        label: Pic 17 - Upstairs Bath
+      - image: /images/uploads/18_dsc4223.jpg
+        label: Pic 18 - Upstairs Loft
+      - image: /images/uploads/19_dsc4148.jpg
+        label: Pic 19 - Basement Great Room / Walkout
+      - image: /images/uploads/20_dsc4154.jpg
+        label: Pic 20 - Basement Great Room
+      - image: /images/uploads/21_dsc4160.jpg
+        label: Pic 21 - Basement Bedroom
+      - image: /images/uploads/22_dsc4163.jpg
+        label: Pic 22 - Basement Bath
     title: The Aspen
     type: carousel
