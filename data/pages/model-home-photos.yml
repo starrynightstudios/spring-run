@@ -13,5 +13,15 @@ sections:
         label: Pic 3 - Deck
       - image: /images/uploads/4_dsc4175.jpg
         label: Pic 4 - Kitchen/Dining
+      - image: /images/uploads/5_dsc4172.jpg
+        label: Pic 5 - Kitchen/Dining/Stair
+      - image: /images/uploads/6_dsc4169.jpg
+        label: Pic 6 - Kitchen/Bar
+      - image: /images/uploads/7_dsc4166.jpg
+        label: Pic 7 - Entry/Half Bath
+      - image: /images/uploads/8_dsc4178.jpg
+        label: Pic 8 - Dining/Kitchen
+      - image: /images/uploads/9_dsc4184.jpg
+        label: Pic 9 - Living
     title: The Aspen
     type: carousel
