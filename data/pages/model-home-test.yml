@@ -1,0 +1,11 @@
+slug: Model Home Test
+title: Model Home Test
+description: Spring Run Townhomes Model
+sections:
+  - title: Model Home Photos - Test
+    type: header
+  - images:
+      - image: /images/uploads/1_dsc4250.jpg
+        label: Test
+    title: The Aspen - Test
+    type: carousel
