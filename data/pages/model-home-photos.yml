@@ -7,47 +7,6 @@ sections:
   - images:
       - image: /images/uploads/1_dsc4250.jpg
         label: Test
-      - image: /images/uploads/_dsc4247.jpg
-        label: '2'
-      - image: /images/uploads/_dsc4241.jpg
-        label: '3'
-      - image: /images/uploads/_dsc4175.jpg
-        label: '4'
-      - image: /images/uploads/_dsc4172.jpg
-        label: '5'
-      - image: /images/uploads/_dsc4169.jpg
-        label: '6'
-      - image: /images/uploads/_dsc4166.jpg
-        label: '7'
-      - image: /images/uploads/_dsc4178.jpg
-        label: '8'
-      - image: /images/uploads/_dsc4184.jpg
-        label: '9'
-      - image: /images/uploads/_dsc4190.jpg
-        label: '10'
-      - image: /images/uploads/_dsc4193.jpg
-        label: '11'
-      - image: /images/uploads/_dsc4196.jpg
-        label: '12'
-      - image: /images/uploads/_dsc4199.jpg
-        label: '13'
-      - image: /images/uploads/_dsc4238.jpg
-        label: '14'
-      - image: /images/uploads/_dsc4214.jpg
-        label: '15'
-      - image: /images/uploads/_dsc4235.jpg
-        label: '16'
-      - image: /images/uploads/_dsc4217.jpg
-        label: '17'
-      - image: /images/uploads/_dsc4223.jpg
-        label: '18'
-      - image: /images/uploads/_dsc4148.jpg
-        label: '19'
-      - image: /images/uploads/_dsc4154.jpg
-        label: '20'
-      - image: /images/uploads/_dsc4160.jpg
-        label: '21'
-      - image: /images/uploads/_dsc4163.jpg
-        label: '22'
+      - {}
     title: The Aspen
     type: carousel
