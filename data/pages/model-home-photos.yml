@@ -5,48 +5,32 @@ sections:
   - title: 'Model Home Photos, The Aspen'
     type: header
   - images:
-      - image: /images/uploads/1_dsc4250.jpg
+      - image: /images/uploads/_dsc4250.jpg
         label: '1'
-      - image: /images/uploads/2_dsc4247.jpg
+      - image: /images/uploads/_dsc4247.jpg
         label: '2'
-      - image: /images/uploads/2.5_dsc4241.jpg
-        label: '2.5'
-      - image: /images/uploads/3_dsc4178.jpg
+      - image: /images/uploads/_dsc4241.jpg
         label: '3'
-      - image: /images/uploads/4_dsc4172.jpg
+      - image: /images/uploads/_dsc4175.jpg
         label: '4'
-      - image: /images/uploads/4.5_dsc4166.jpg
-        label: '4.5'
-      - image: /images/uploads/5_dsc4169.jpg
+      - image: /images/uploads/_dsc4172.jpg
         label: '5'
-      - image: /images/uploads/6_dsc4175.jpg
+      - image: /images/uploads/_dsc4169.jpg
         label: '6'
-      - image: /images/uploads/7_dsc4184.jpg
-        label: '7'
-      - image: /images/uploads/8_dsc4190.jpg
-        label: '8'
-      - image: /images/uploads/9_dsc4193.jpg
-        label: '9'
-      - image: /images/uploads/10_dsc4196.jpg
-        label: '10'
-      - image: /images/uploads/11_dsc4199.jpg
-        label: '11'
-      - image: /images/uploads/13_dsc4238.jpg
-        label: '13'
-      - image: /images/uploads/14_dsc4223.jpg
-        label: '14'
-      - image: /images/uploads/16_dsc4235.jpg
-        label: '16'
-      - image: /images/uploads/17_dsc4214.jpg
-        label: '17'
-      - image: /images/uploads/18_dsc4217.jpg
-        label: '18'
-      - image: /images/uploads/19_dsc4163.jpg
-        label: '19'
-      - image: /images/uploads/21_dsc4148.jpg
-        label: '21'
-      - image: /images/uploads/20_dsc4154.jpg
-        label: '20'
-      - image: /images/uploads/22_dsc4160.jpg
-        label: '22'
+      - image: /images/uploads/_dsc4166.jpg
+      - image: /images/uploads/_dsc4178.jpg
+      - image: /images/uploads/_dsc4184.jpg
+      - image: /images/uploads/_dsc4190.jpg
+      - image: /images/uploads/_dsc4193.jpg
+      - image: /images/uploads/_dsc4196.jpg
+      - image: /images/uploads/_dsc4199.jpg
+      - image: /images/uploads/_dsc4238.jpg
+      - image: /images/uploads/_dsc4214.jpg
+      - image: /images/uploads/_dsc4235.jpg
+      - image: /images/uploads/_dsc4217.jpg
+      - image: /images/uploads/_dsc4223.jpg
+      - image: /images/uploads/_dsc4148.jpg
+      - image: /images/uploads/_dsc4154.jpg
+      - image: /images/uploads/_dsc4160.jpg
+      - image: /images/uploads/_dsc4163.jpg
     type: carousel
