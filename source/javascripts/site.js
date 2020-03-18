@@ -15,10 +15,10 @@
         arrowKeys: true,
         autoplay: true,
         lazyload: true,
+        autoplayTimeout: 10000,
         autoplayButtonOutput: false,
         loop: true,
         mouseDrag: true,
-        autoHeight: true,
       })
     }
 
