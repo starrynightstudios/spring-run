@@ -3,14 +3,14 @@
 
   application.register('carousel', class extends Stimulus.Controller {
     static get targets() {
-      return ['container']
+      return ['container', 'controls', 'next', 'previous']
     }
     connect() {
       this.carousel = window.tns({
         container: this.containerTarget,
         controls: true,
-        controlsPosition: 'bottom',
-        controlsText: ['←', '→'],
+        nextButton: this.nextTarget,
+        prevButton: this.previousTarget,
         nav: false,
         arrowKeys: true,
         autoplay: true,

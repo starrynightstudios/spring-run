@@ -15,19 +15,14 @@ $info: #0495FF;
 @import "bulma/sass/utilities/derived-variables";
 @import "bulma/bulma";
 
-.tns-outer {
+.carousel {
   position: relative;
-}
 
-.tns-controls {
-  position: absolute;
-  height: 100%;
-  width: 100%;
-  top: 0;
-  left: 0;
-  pointer-events: none;
-
-  > button {
+  button:not(.carousel-control) {
+    display: none;
+  }
+  
+  .carousel-control {
     @extend .button.is-rounded;
     pointer-events: all;
     position: absolute;

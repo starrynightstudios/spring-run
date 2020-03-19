@@ -1,16 +1,30 @@
 <section class="section" data-controller="carousel">
   <div class="container">
     <%= partial 'partials/section_header', locals: { section: section, is_centered: true } %>
-    <% if section.images %>
-      <div data-target="carousel.container">
+    <div class="carousel">
+      <% if section.images %>
+        <div data-target="carousel.container">
+          
 
-        <% section.images.each_with_index do |image, index| %>
-          <figure class="image">
-            <img alt="<%= image.label %>" data-index="<%= index %>" data-src="<%= image.image %>" class="tns-lazy-img" />
-          </figure>
-        <% end %>
-      </div>
-    <% end %>
+          <% section.images.each_with_index do |image, index| %>
+            <figure class="image">
+              <img alt="<%= image.label %>" data-index="<%= index %>" data-src="<%= image.image %>" class="tns-lazy-img" />
+            </figure>
+          <% end %>
+          
+        </div>
+        <button data-target="carousel.previous" class="carousel-control">
+          <span class="icon has-text-grey-light">
+            <i class="fa fa-arrow-left"></i>
+          </span>
+        <button>
+        <button data-target="carousel.next" class="carousel-control">
+          <span class="icon has-text-grey-light">
+            <i class="fa fa-arrow-right"></i>
+          </span>
+        <button>
+      <% end %>
+    </div>
     <%= partial 'partials/files_list', locals: { files: section&.files } %>
   </div>
 </section>
