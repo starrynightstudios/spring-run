@@ -63,5 +63,5 @@ sections:
   - files:
       - file: /images/uploads/spring-run-phase-c-1-availability-3.27.20.pdf
         label: 'As of March 27, 2020'
-    title: Availability
+    title: Availability Map
     type: link_list
