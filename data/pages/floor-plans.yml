@@ -6,11 +6,12 @@ sections:
     title: Spring Run Townhome Elevations & Floor Plans
     type: header
   - images:
-      - image: /images/uploads/23c4a36303ee6e4caaf4acec0bd70b88-triumphcmg.png
+      - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
     title: 3 Story Units With Walk-Out Basements
     type: images_only
   - images:
-      - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
+      - image: >-
+          /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
     type: images_only
   - files:
       - file: >-
