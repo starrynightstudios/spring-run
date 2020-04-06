@@ -14,19 +14,18 @@ sections:
           /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
     type: images_only
   - files:
-      - file: >-
-          /images/uploads/triumph_spring-run_the-denver-w_bldg-1_mrktng-drwngs-aspen_2019-10-16.pdf
+      - file: /images/uploads/the-aspen-2.3.20.pdf
         label: The Aspen
         url: ''
       - file: /images/uploads/the-auburn.pdf
         label: The Auburn
-      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
+      - file: /images/uploads/the-cottonwood-derivative-2.3.20.pdf
         label: The Cottonwood Plus (Derivative)
         url: ''
-      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
+      - file: /images/uploads/the-cottonwood-2.3.20.pdf
         label: The Cottonwood
         url: ''
-      - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
+      - file: /images/uploads/the-dover-2.3.20.pdf
         label: The Dover
         url: ''
     title: Floor Plan Options
