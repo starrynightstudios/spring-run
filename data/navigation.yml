@@ -9,6 +9,8 @@ links:
     url: /clubhouse
   - label: Floor Plans
     url: /floor-plans
+  - label: Availability
+    url: /availability
   - label: Model Home Photos
     url: /Model Home
   - label: Documents
