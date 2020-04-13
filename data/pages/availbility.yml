@@ -7,4 +7,4 @@ sections:
         label: Availability
     subtitle: 'As of April 13, 2020'
     title: Availability Map
-    type: images_only
+    type: content_only
