@@ -5,6 +5,8 @@ sections:
   - files:
       - file: /images/uploads/availability-4.13.20.jpg
         label: Availability
+    images:
+      - image: /images/uploads/availability-4.13.20.jpg
     subtitle: 'As of April 13, 2020'
     title: Availability Map
-    type: content_only
+    type: images_only
