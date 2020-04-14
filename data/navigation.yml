@@ -7,9 +7,11 @@ links:
     url: /community
   - label: Clubhouse
     url: /clubhouse
-  - label: Elevations & Floor Plans
+  - label: Floor Plans
     url: /floor-plans
-  - label: Model Home Photos
+  - label: Availability
+    url: /availability
+  - label: Model Home
     url: /Model Home
   - label: Documents
     url: /documents

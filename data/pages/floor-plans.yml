@@ -6,33 +6,33 @@ sections:
     title: Spring Run Townhome Elevations & Floor Plans
     type: header
   - images:
-      - image: /images/uploads/23c4a36303ee6e4caaf4acec0bd70b88-triumphcmg.png
+      - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
     title: 3 Story Units With Walk-Out Basements
     type: images_only
   - images:
-      - image: /images/uploads/5e3d85d0f1d09b448d4e48acf7f1e7e7-triumphcmg.png
+      - image: >-
+          /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
     type: images_only
   - files:
-      - file: >-
-          /images/uploads/triumph_spring-run_the-denver-w_bldg-1_mrktng-drwngs-aspen_2019-10-16.pdf
+      - file: /images/uploads/the-aspen-2.3.20.pdf
         label: The Aspen
         url: ''
       - file: /images/uploads/the-auburn.pdf
         label: The Auburn
-      - file: /images/uploads/2019-5-7-cottonwood-derivative-w_o-logo.pdf
+      - file: /images/uploads/the-cottonwood-derivative-2.3.20.pdf
         label: The Cottonwood Plus (Derivative)
         url: ''
-      - file: /images/uploads/2019-5-7-cottonwood-w_o-logo.pdf
+      - file: /images/uploads/the-cottonwood-2.3.20.pdf
         label: The Cottonwood
         url: ''
-      - file: /images/uploads/2019-5-7-dover-w_o-logo.pdf
+      - file: /images/uploads/the-dover-2.3.20.pdf
         label: The Dover
         url: ''
     title: Floor Plan Options
     type: link_list
   - subtitle: >-
-      (A few 3-Story Units with basements may not include elevation providing
-      for a walk out.)
+      (Some 3-Story Units with basements in Phase 1 and 2 will not include a
+      walk out basement.)
     type: link_list
   - subtitle: 'Priced From $316,000'
     title: ''
@@ -58,9 +58,4 @@ sections:
     type: link_list
   - subtitle: 'Priced From $279,000'
     title: ''
-    type: link_list
-  - files:
-      - file: /images/uploads/spring-run-phase-c-1-availability-3.9.20.pdf
-        label: 'As of March 9, 2020'
-    title: Availability
     type: link_list
