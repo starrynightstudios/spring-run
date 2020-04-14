@@ -1,9 +1,31 @@
 slug: Availability
-title: Availability
+title: Move-In Ready
 description: Townhomes Availability
 sections:
-  - images:
-      - {}
+  - content: |-
+      Unit 102          9649 N Aaron Ave
+
+      $322,937         Cottonwood (Derivative) Floorplan
+
+
+
+      Unit 104          9659 N Aaron Ave
+
+      $348,407         Dover Floorplan
+
+
+
+      Unit 107          9681 N Aaron Ave
+
+      $347,196         Auburn Floorplan
+
+
+
+      Unit 123          9674 N Aaron Ave
+
+      $300,368          Redwood Floorplan
+    files: []
+    images: []
     title: Move-In Ready
     type: content_only
   - files: []
