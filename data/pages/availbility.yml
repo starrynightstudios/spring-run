@@ -1,10 +1,15 @@
 slug: Availability
-title: Availbility
+title: Availability
 description: Townhomes Availability
 sections:
+  - images:
+      - {}
+    title: Move-In Ready
+    type: content_only
   - files: []
     images:
       - image: /images/uploads/availability-4.13.20.jpg
     subtitle: 'As of April 13, 2020'
     title: Availability Map
     type: images_only
+  - {}
