@@ -1,6 +1,18 @@
 (() => {
   const application = Stimulus.Application.start()
 
+  application.register('copyright', class extends Stimulus.Controller {
+    static get targets() {
+      return ['currentYear']
+    }
+
+    connect() {
+      try {
+        this.currentYearTarget.innerHTML = new Date().getFullYear()
+      } catch (error) {}
+    }
+  })
+
   application.register('carousel', class extends Stimulus.Controller {
     static get targets() {
       return ['container', 'controls', 'next', 'previous']
