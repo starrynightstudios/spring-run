@@ -97,3 +97,24 @@
     flex-wrap: wrap;
   }
 }
+
+.covid-message {
+  padding: 1rem;
+  border: solid 1px black;
+  max-width: 30rem;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+
+  h4 {
+    margin-bottom: 0;;
+  }
+
+  ul {
+    margin-top: 0;
+  }
+
+  @media screen and (min-width: 1088px) {
+    margin-left: 10.75rem;
+  }
+}
