@@ -2,8 +2,10 @@ slug: Availability
 title: Availability
 description: townhouse eagle mountain utah
 sections:
-  - images:
-      - image: /images/uploads/availability-4.13.20.jpg
+  - images: []
     subtitle: 'As of April 30, 2020'
     title: Availability
     type: header
+  - images:
+      - image: /images/uploads/availability-4.13.20.jpg
+    type: images_only
