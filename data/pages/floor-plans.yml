@@ -34,9 +34,6 @@ sections:
       (Some 3-Story Units with basements in Phase 1 and 2 will not include a
       walk out basement.)
     type: link_list
-  - subtitle: 'Priced From $318,000'
-    title: ''
-    type: link_list
   - images:
       - image: /images/uploads/screen-shot-2019-06-05-at-8.58.18-am.png
     title: 2 Story Walk-Up Units
@@ -55,7 +52,4 @@ sections:
         label: The Redwood (Derivative)
         url: ''
     title: Floor Plan Options
-    type: link_list
-  - subtitle: 'Priced From $282,500'
-    title: ''
     type: link_list
