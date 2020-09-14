@@ -34,6 +34,7 @@ sections:
       - file: /images/uploads/spring-run-phase-c1-recorded-plat.pdf
         label: Phase 1 Plat
         url: ''
-      - label: Phase 2 Plat (Coming Soon)
+      - file: /images/uploads/spring-run-townhomes-phase-c2-preliminary-draft.pdf
+        label: Phase 2 Plat (Draft - Under Review)
     title: Plats
     type: link_list
