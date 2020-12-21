@@ -35,7 +35,7 @@ sections:
       - file: /images/uploads/spring-run-phase-c1-recorded-plat.pdf
         label: Phase 1 Plat
         url: ''
-      - file: /images/uploads/18-355-spring-run-phase-c-plat-2-plat-100920.pdf
-        label: Phase 2 Plat (Draft - Under Review)
+      - file: /images/uploads/recorded-plat-c-2.pdf
+        label: Phase 2 Plat
     title: Plats
     type: link_list
