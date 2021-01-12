@@ -3,10 +3,10 @@ title: Availability
 description: townhouse eagle mountain utah
 sections:
   - images: []
-    subtitle: 'As of December 21, 2020'
+    subtitle: 'As of January 12, 2020'
     title: Availability
     type: header
   - images:
       - image: /images/uploads/availability-map-phase-c2-1.4.20.jpg
-      - image: /images/uploads/availability-map-11.2.jpg
+      - image: /images/uploads/availability-map-phase-c1.jpg
     type: images_only
