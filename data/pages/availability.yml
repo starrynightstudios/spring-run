@@ -7,6 +7,6 @@ sections:
     title: Availability
     type: header
   - images:
-      - image: /images/uploads/availability-map-phase-c2-1.4.20.jpg
+      - image: /images/uploads/availability-map-phase-c2.jpg
       - image: /images/uploads/availability-map-phase-c1.jpg
     type: images_only
