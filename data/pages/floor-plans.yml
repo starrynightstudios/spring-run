@@ -17,8 +17,6 @@ sections:
       - file: /images/uploads/the-aspen-2.3.20.pdf
         label: The Aspen
         url: ''
-      - file: /images/uploads/the-auburn.pdf
-        label: The Auburn
       - file: /images/uploads/the-cottonwood-derivative-2.3.20.pdf
         label: The Cottonwood Plus (Derivative)
         url: ''
