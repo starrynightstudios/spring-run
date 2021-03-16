@@ -8,5 +8,5 @@ sections:
     type: header
   - images:
       - image: /images/uploads/availability-map-phase-c2.jpg
-      - image: /images/uploads/availability-map-phase-c1-3.8.21.jpg
+      - image: /images/uploads/availability-map-phase-c1-3.16.jpg
     type: images_only
