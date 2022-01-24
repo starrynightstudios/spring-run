@@ -28,7 +28,10 @@ sections:
       - file: /images/uploads/spring-run-townhomes-seller-disclosures-8.28.20.pdf
         label: Seller Disclosures
         url: '#'
-      - {}
+      - file: /images/uploads/addendum-upgrade-selections-have-been-made.pdf
+        label: Upgrades Addendum
+      - file: /images/uploads/appraisal-addendum.pdf
+        label: Appraisal Addendum
     title: Purchase Docs
     type: link_list
   - files:
