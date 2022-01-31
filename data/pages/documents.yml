@@ -32,6 +32,8 @@ sections:
         label: Upgrades Addendum
       - file: /images/uploads/appraisal-addendum.pdf
         label: Appraisal Addendum
+      - file: /images/uploads/blank-addendum.pdf
+        label: Blank Fillable Addendum
     title: Purchase Docs
     type: link_list
   - files:
