@@ -28,26 +28,16 @@ sections:
         url: ''
     title: Floor Plan Options
     type: link_list
-  - subtitle: >-
-      (Some 3-Story Units with basements in Phase 1 and 2 will not include a
-      walk out basement.)
-    type: link_list
   - images:
       - image: /images/uploads/screen-shot-2019-06-05-at-8.58.18-am.png
     title: 2 Story Walk-Up Units
     type: images_only
   - files:
       - file: /images/uploads/1-11-19_birch.pdf
-        label: The Birch
-        url: ''
-      - file: /images/uploads/1-11-19_birch_derivative.pdf
-        label: The Birch (Derivative)
+        label: The Birch (Interior Unit)
         url: ''
       - file: /images/uploads/1-11-19_redwood.pdf
-        label: The Redwood
-        url: ''
-      - file: /images/uploads/1-11-19_redwood_derivative.pdf
-        label: The Redwood (Derivative)
+        label: The Redwood (Exterior Unit)
         url: ''
     title: Floor Plan Options
     type: link_list
