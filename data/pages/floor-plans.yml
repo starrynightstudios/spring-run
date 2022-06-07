@@ -5,8 +5,12 @@ sections:
   - images: []
     title: Spring Run Townhome Elevations & Floor Plans
     type: header
-  - images:
+  - content: >-
+      Rate Buy Down Available for 3 Move-in Ready Townhomes -  MLS # 1813179,
+      1813181, & 1813208
+    images:
       - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
+    subtitle: ''
     title: 3 Story Units With Walk-Out Basements
     type: images_only
   - images:
