@@ -6,17 +6,12 @@ sections:
     type: header
   - content: ''
     images:
-      - image: /images/uploads/cp1.png
-        label: Rendered image of future clubhouse (back)
-    title: ''
+      - image: /images/uploads/clubhouse-exterior.jpg
+        label: Future clubhouse
     type: images_only
   - content: ''
     images:
-      - image: /images/uploads/cp2.png
-        label: Rendered image of future clubhouse (front)
-    type: images_only
-  - content: ''
-    images:
-      - image: /images/uploads/cfp1.png
-        label: Future clubhouse floor plans
+      - image: /images/uploads/spring-run-clubhouse.jpg
+        label: 'Rendered image of future clubhouse '
+      - image: /images/uploads/spring-run-clubhouse-plans.jpg
     type: images_only
