@@ -13,5 +13,7 @@ sections:
     images:
       - image: /images/uploads/spring-run-clubhouse.jpg
         label: 'Rendered image of future clubhouse '
+    type: images_only
+  - images:
       - image: /images/uploads/spring-run-clubhouse-plans.jpg
     type: images_only
