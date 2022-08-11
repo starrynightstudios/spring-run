@@ -2,7 +2,12 @@ slug: Availability
 title: Move in Ready & Availability
 description: townhouse eagle mountain utah
 sections:
-  - subtitle: 'Units 206, 207, 208'
+  - content: '# \*\*With the Rate Buy Down - Your Payments Can Be Less Than Expected\*\*'
+    images:
+      - image: /images/uploads/1.jpg
+      - image: /images/uploads/2.jpg
+      - image: /images/uploads/3.jpg
+    subtitle: ''
     title: Move In Ready Homes
     type: header
   - images: []
