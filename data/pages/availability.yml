@@ -13,6 +13,7 @@ sections:
       - image: /images/uploads/3.jpg
     type: images_only
   - title: '*Others homes in the $400''s soon to be ready for occupancy*'
+    type: header
   - images: []
     subtitle: 'As of June 7, 2022'
     title: Availability
