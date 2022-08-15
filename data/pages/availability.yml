@@ -11,6 +11,8 @@ sections:
       - image: /images/uploads/1.jpg
       - image: /images/uploads/2.jpg
       - image: /images/uploads/3.jpg
+    type: images_only
+  - images:
       - image: /images/uploads/unit-221.jpg
       - image: /images/uploads/unit-222.jpg
       - image: /images/uploads/unit-223.jpg
