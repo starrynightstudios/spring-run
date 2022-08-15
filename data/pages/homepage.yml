@@ -4,7 +4,10 @@ description: >-
   Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
   ipsum Lorem ipsum Lorem ipsum 
 sections:
-  - content: '## Realty Utah, LLC'
+  - content: |-
+      ## Check Availability tab for Move-In Ready options!
+
+      ## Realty Utah, LLC
     subtitle: Contact Aaron & Jess for details - 801-808-7096
     title: '*Seller Will Buy Down Your Payments!*'
     type: header
