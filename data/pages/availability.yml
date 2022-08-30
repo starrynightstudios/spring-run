@@ -13,10 +13,10 @@ sections:
       - image: /images/uploads/3.jpg
     type: images_only
   - images:
-      - image: /images/uploads/unit-221.jpg
-      - image: /images/uploads/unit-222.jpg
-      - image: /images/uploads/unit-223.jpg
-      - image: /images/uploads/unit-224.jpg
+      - image: /images/uploads/221.jpg
+      - image: /images/uploads/222.jpg
+      - image: /images/uploads/223.jpg
+      - image: /images/uploads/224.jpg
     type: images_only
   - title: '*Others homes in the $400''s soon to be ready for occupancy*'
     type: header
