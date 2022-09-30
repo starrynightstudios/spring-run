@@ -4,10 +4,6 @@ description: >-
   Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem
   ipsum Lorem ipsum Lorem ipsum 
 sections:
-  - content: '##'
-    images:
-      - image: /images/uploads/front-page.png
-    type: images_only
   - content: ''
     title: ... the perfect life!
     type: header
