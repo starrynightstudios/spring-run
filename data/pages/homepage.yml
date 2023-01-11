@@ -13,6 +13,16 @@ sections:
       - image: /images/uploads/summerfun_familybikingwoods-2-1-.jpg
     title: ''
     type: images_only
+  - content: ''
+    images:
+      - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
+    title: ...the perfect life-style community!
+    type: images_only
+  - content: ''
+    images:
+      - image: >-
+          /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
+    type: images_only
   - content: >-
       Spring Run is a place to play and enjoy a happy life. There will be two
       grassed parks for the entire community. The combined parks will have
@@ -28,16 +38,6 @@ sections:
       The townhomes will also have their own private places to play. It will
       have a clubhouse, a swimming pool, and meandering trails through the
       village. Come have fun with us!
-    images:
-      - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
-    title: ...the perfect life-style community!
-    type: images_only
-  - content: ''
-    images:
-      - image: >-
-          /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
-    type: images_only
-  - content: ''
     title: Come have fun with us!
     type: header
   - content: >-
