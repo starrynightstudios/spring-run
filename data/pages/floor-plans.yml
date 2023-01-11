@@ -8,9 +8,7 @@ sections:
   - content: ''
     images:
       - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
-    subtitle: >-
-      Rate Buy Down Available for 3 Move-in Ready Townhomes -  MLS # 1813179,
-      1813181, & 1813208
+    subtitle: ''
     title: 3 Story Units With Walk-Out Basements
     type: images_only
   - images:
@@ -34,9 +32,7 @@ sections:
     type: link_list
   - images:
       - image: /images/uploads/east-front-2.png
-    subtitle: >-
-      Rate Buy Down Available for 4 Townhomes - MLS # 1816601, 1816794, 1816799,
-      1816800
+    subtitle: ''
     title: 2 Story Walk-Up Units
     type: images_only
   - files:
