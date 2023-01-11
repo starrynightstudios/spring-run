@@ -32,6 +32,14 @@ sections:
       - image: /images/uploads/20009-spring-run-2020.03.24_9-photo.jpg
     title: ...the perfect life-style community!
     type: images_only
+  - content: ''
+    images:
+      - image: >-
+          /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
+    type: images_only
+  - content: ''
+    title: Come have fun with us!
+    type: header
   - content: >-
       [**Aaron Schroeder**](mailto:aaron@utahrealty.com)
       [**801-808-7096**](tel:8018087096)
@@ -55,11 +63,4 @@ sections:
       **Follow our construction progress on Instagram @SpringRunTownhomes**
     title: Appointments to See
     type: content_only
-  - content: ''
-    images:
-      - image: >-
-          /images/uploads/20009-spring-run-2020.04.02_rear-yard-test_15-photo.jpg
-    type: images_only
-  - content: ''
-    title: Come have fun with us!
-    type: header
+  - type: header
