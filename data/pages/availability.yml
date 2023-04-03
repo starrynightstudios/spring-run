@@ -2,6 +2,13 @@ slug: Availability
 title: Move in Ready & Availability
 description: townhouse eagle mountain utah
 sections:
+  - title: Move-In Ready
+    type: header
+  - images:
+      - image: /images/uploads/move-in-ready-unit-210.jpg
+      - image: /images/uploads/2.jpg
+      - image: /images/uploads/3.jpg
+    type: images_only
   - images: []
     subtitle: 'As of March 31, 2023'
     title: Availability
