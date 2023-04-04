@@ -5,9 +5,13 @@ sections:
   - title: Move-In Ready
     type: header
   - images:
+      - image: /images/uploads/207.jpg
+      - image: /images/uploads/208.jpg
       - image: /images/uploads/move-in-ready-unit-210.jpg
+      - image: /images/uploads/221.jpg
       - image: /images/uploads/2.jpg
       - image: /images/uploads/3.jpg
+      - image: /images/uploads/224.jpg
     type: images_only
   - images: []
     subtitle: 'As of March 31, 2023'
