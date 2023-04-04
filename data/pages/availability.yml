@@ -12,7 +12,7 @@ sections:
       - image: /images/uploads/2.jpg
       - image: /images/uploads/3.jpg
       - image: /images/uploads/224.jpg
-    type: images_left
+    type: images_only
   - images: []
     subtitle: 'As of March 31, 2023'
     title: Availability
