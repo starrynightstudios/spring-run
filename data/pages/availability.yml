@@ -8,6 +8,8 @@ sections:
       - image: /images/uploads/207.jpg
       - image: /images/uploads/208.jpg
       - image: /images/uploads/move-in-ready-unit-210.jpg
+    type: images_only
+  - images:
       - image: /images/uploads/221.jpg
       - image: /images/uploads/2.jpg
       - image: /images/uploads/3.jpg
