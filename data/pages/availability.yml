@@ -15,7 +15,7 @@ sections:
       - image: /images/uploads/224.jpg
     type: images_only
   - images: []
-    subtitle: 'As of April 17, 2023'
+    subtitle: 'As of May 8, 2023'
     title: Availability
     type: header
   - images:
