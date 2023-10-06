@@ -9,7 +9,7 @@ sections:
       - image: /images/uploads/224.jpg
     type: images_only
   - images: []
-    subtitle: 'As of September 28, 2023'
+    subtitle: 'As of October 6, 2023'
     title: Availability
     type: header
   - images:
