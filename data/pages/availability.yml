@@ -5,11 +5,10 @@ sections:
   - title: Move-In Ready
     type: header
   - images:
-      - image: /images/uploads/website-move-in-ready-bldg-13-2-×-3-in-.png
       - image: /images/uploads/224.jpg
     type: images_only
   - images: []
-    subtitle: 'As of October 6, 2023'
+    subtitle: 'As of January 9, 2024'
     title: Availability
     type: header
   - images:
