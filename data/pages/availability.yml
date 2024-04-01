@@ -8,7 +8,7 @@ sections:
       - image: /images/uploads/224.jpg
     type: images_only
   - images: []
-    subtitle: 'As of March 27, 2024'
+    subtitle: 'As of April 1, 2024'
     title: Availability
     type: header
   - images:
