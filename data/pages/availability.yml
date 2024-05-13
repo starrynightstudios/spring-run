@@ -2,11 +2,13 @@ slug: Availability
 title: Move in Ready & Availability
 description: townhouse eagle mountain utah
 sections:
-  - images:
-      - image: /images/uploads/unit-214-move-in-ready.jpg
+  - images: []
     subtitle: 'Unit 214 will be ready the week of May 20, 2024'
     title: Move-In Ready
     type: header
+  - images:
+      - image: /images/uploads/unit-214-move-in-ready.jpg
+    type: images_only
   - images: []
     subtitle: 'As of May 13, 2024'
     title: Availability
