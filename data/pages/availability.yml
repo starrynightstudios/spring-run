@@ -6,7 +6,8 @@ sections:
     subtitle: 'Unit 213 '
     title: Move-In Ready
     type: header
-  - images: []
+  - images:
+      - image: /images/uploads/unit-213-move-in-ready.jpg
     type: images_only
   - images: []
     subtitle: 'As of August 27, 2024'
@@ -14,5 +15,4 @@ sections:
     type: header
   - images:
       - image: /images/uploads/availability-map-phase-c2.jpg
-      - image: /images/uploads/availability-map-phase-c1-4-29-21.jpg
     type: images_only
