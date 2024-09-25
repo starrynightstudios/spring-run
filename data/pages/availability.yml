@@ -3,8 +3,10 @@ title: Move in Ready & Availability
 description: townhouse eagle mountain utah
 sections:
   - images: []
-    subtitle: WE'RE PAYING BUYER AGENT COMMISSIONS
+    subtitle: ''
     title: Move-In Ready
+    type: header
+  - title: WE'RE PAYING BUYER AGENT COMMISSIONS
     type: header
   - images:
       - image: /images/uploads/unit-213-move-in-ready.jpg
