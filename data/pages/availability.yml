@@ -13,11 +13,9 @@ sections:
         label: Unit 213
       - image: /images/uploads/1.jpg
         label: Unit 221
-      - image: /images/uploads/3.jpg
-        label: Unit 223
     type: images_only
   - images: []
-    subtitle: 'As of September 25, 2024'
+    subtitle: 'As of December 2, 2024'
     title: Availability
     type: header
   - images:
