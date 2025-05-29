@@ -5,6 +5,10 @@ description: >-
   ipsum Lorem ipsum Lorem ipsum 
 sections:
   - content: ''
+    files:
+      - {}
+    images:
+      - image: /images/uploads/spring-run-rates-2025.jpg
     title: ... the perfect life!
     type: header
   - images:
