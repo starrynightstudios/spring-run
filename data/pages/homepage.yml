@@ -8,7 +8,7 @@ sections:
     files:
       - {}
     images:
-      - image: /images/uploads/spring-run-rates-2025.jpg
+      - image: ''
     title: ... the perfect life!
     type: header
   - images:
