@@ -5,10 +5,8 @@ description: >-
   Eagle Mountain
 sections:
   - content: ''
-    files:
-      - {}
-    images:
-      - image: ''
+    files: []
+    images: []
     title: ... the perfect life!
     type: header
   - images:
