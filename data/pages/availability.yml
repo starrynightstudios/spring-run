@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     title: Move-In Ready
     type: header
-  - title: WE'RE PAYING BUYER AGENT COMMISSIONS
+  - title: <div class="WE'RE PAYING BUYER AGENT COMMISSIONS">
     type: header
   - images:
       - image: /images/uploads/unit-213.png
