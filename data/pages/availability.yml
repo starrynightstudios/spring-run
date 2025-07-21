@@ -14,13 +14,13 @@ sections:
         label: Unit 213
       - image: /images/uploads/website-move-in-ready-bldg-9-2-×-3-in-.png
         label: Unit 207
-      - image: /images/uploads/unti-210.png
+      - image: /images/uploads/unit-210.png
         label: Unit 210
       - image: /images/uploads/unit-221.png
         label: Unit 221
     type: images_only
   - images: []
-    subtitle: 'As of July 7, 2025'
+    subtitle: 'As of July 21, 2025'
     title: Availability
     type: header
   - images:
