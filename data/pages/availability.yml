@@ -9,17 +9,13 @@ sections:
   - content: ''
     title: '*WE''RE PAYING BUYER AGENT COMMISSIONS*'
     type: header
-  - images:
-      - image: /images/uploads/unit-213.png
-        label: Unit 213
-      - image: /images/uploads/website-move-in-ready-bldg-9-2-×-3-in-.png
-        label: Unit 207
+  - images: []
     type: images_only
   - images: []
-    subtitle: 'As of August 27, 2025'
+    subtitle: 'As of April 29, 2026'
     title: Availability
     type: header
   - images:
-      - image: /images/uploads/availability-map-phase-c2.jpg
       - {}
+      - image: /images/uploads/availability-map-phase-c2.jpg
     type: images_only
